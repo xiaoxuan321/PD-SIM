@@ -1,0 +1,12 @@
+==============================================================================
+FINAL ANSWER
+==============================================================================
+CAN_BE_DISCOVERED_BY_IM = NO_ON_SCANNED_GRID
+
+NO_ON_SCANNED_GRID：在当前离散阈值扫描网格内，没有找到与目标 BPMN 规范化控制流结构完全一致的 IM 模型。该结论只针对当前阈值网格，并不是对 [0,1] 内所有实数阈值的连续数学穷举证明。
+
+Thresholds checked        = 1001
+Threshold step           = 0.001
+Matched threshold        = None
+Scan errors              = 0
+Result JSON              = im_bpmn_recoverability_output\im_bpmn_recoverability.json

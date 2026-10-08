@@ -1,0 +1,49 @@
+log_name,run_num,sim_file,metric,metric_name,sim_val
+cvs_pharmacy,1,gen_cvs_pharmacy_1.csv,aed,Absolute Event Distribution,17.83526498028277
+cvs_pharmacy,2,gen_cvs_pharmacy_2.csv,aed,Absolute Event Distribution,18.8501250360681
+cvs_pharmacy,3,gen_cvs_pharmacy_3.csv,aed,Absolute Event Distribution,18.50565066846206
+cvs_pharmacy,4,gen_cvs_pharmacy_4.csv,aed,Absolute Event Distribution,19.62429066076753
+cvs_pharmacy,5,gen_cvs_pharmacy_5.csv,aed,Absolute Event Distribution,19.41398961238819
+cvs_pharmacy,AVG,--- aed MEAN ---,aed,Absolute Event Distribution,18.84586419159373
+cvs_pharmacy,1,gen_cvs_pharmacy_1.csv,car,Case Arrival Rate,21.2475
+cvs_pharmacy,2,gen_cvs_pharmacy_2.csv,car,Case Arrival Rate,21.2475
+cvs_pharmacy,3,gen_cvs_pharmacy_3.csv,car,Case Arrival Rate,21.2475
+cvs_pharmacy,4,gen_cvs_pharmacy_4.csv,car,Case Arrival Rate,21.2475
+cvs_pharmacy,5,gen_cvs_pharmacy_5.csv,car,Case Arrival Rate,21.2475
+cvs_pharmacy,AVG,--- car MEAN ---,car,Case Arrival Rate,21.2475
+cvs_pharmacy,1,gen_cvs_pharmacy_1.csv,ced,Circadian Event Distribution,1.619474711111722
+cvs_pharmacy,2,gen_cvs_pharmacy_2.csv,ced,Circadian Event Distribution,1.612494675661935
+cvs_pharmacy,3,gen_cvs_pharmacy_3.csv,ced,Circadian Event Distribution,1.637275175531403
+cvs_pharmacy,4,gen_cvs_pharmacy_4.csv,ced,Circadian Event Distribution,1.642760961266299
+cvs_pharmacy,5,gen_cvs_pharmacy_5.csv,ced,Circadian Event Distribution,1.620611714917765
+cvs_pharmacy,AVG,--- ced MEAN ---,ced,Circadian Event Distribution,1.626523447697825
+cvs_pharmacy,1,gen_cvs_pharmacy_1.csv,cfld,Control-flow Log Distance (CFLD),0.1973538378288378
+cvs_pharmacy,2,gen_cvs_pharmacy_2.csv,cfld,Control-flow Log Distance (CFLD),0.1969538378288378
+cvs_pharmacy,3,gen_cvs_pharmacy_3.csv,cfld,Control-flow Log Distance (CFLD),0.1971447469197469
+cvs_pharmacy,4,gen_cvs_pharmacy_4.csv,cfld,Control-flow Log Distance (CFLD),0.1967629287379287
+cvs_pharmacy,5,gen_cvs_pharmacy_5.csv,cfld,Control-flow Log Distance (CFLD),0.1968265651015651
+cvs_pharmacy,AVG,--- cfld MEAN ---,cfld,Control-flow Log Distance (CFLD),0.1970083832833832
+cvs_pharmacy,1,gen_cvs_pharmacy_1.csv,ctd,Cycle Time Distribution,20.73549999999993
+cvs_pharmacy,2,gen_cvs_pharmacy_2.csv,ctd,Cycle Time Distribution,19.99199999999992
+cvs_pharmacy,3,gen_cvs_pharmacy_3.csv,ctd,Cycle Time Distribution,20.57449999999995
+cvs_pharmacy,4,gen_cvs_pharmacy_4.csv,ctd,Cycle Time Distribution,19.85949999999992
+cvs_pharmacy,5,gen_cvs_pharmacy_5.csv,ctd,Cycle Time Distribution,20.32399999999997
+cvs_pharmacy,AVG,--- ctd MEAN ---,ctd,Cycle Time Distribution,20.29709999999994
+cvs_pharmacy,1,gen_cvs_pharmacy_1.csv,ngd_2,2-Gram Distance,0.2872598518129958
+cvs_pharmacy,2,gen_cvs_pharmacy_2.csv,ngd_2,2-Gram Distance,0.28794462519379
+cvs_pharmacy,3,gen_cvs_pharmacy_3.csv,ngd_2,2-Gram Distance,0.2876179657462426
+cvs_pharmacy,4,gen_cvs_pharmacy_4.csv,ngd_2,2-Gram Distance,0.2882709852023222
+cvs_pharmacy,5,gen_cvs_pharmacy_5.csv,ngd_2,2-Gram Distance,0.2881622317783938
+cvs_pharmacy,AVG,--- ngd_2 MEAN ---,ngd_2,2-Gram Distance,0.2878511319467489
+cvs_pharmacy,1,gen_cvs_pharmacy_1.csv,ngd_3,3-Gram Distance,0.4078347034349687
+cvs_pharmacy,2,gen_cvs_pharmacy_2.csv,ngd_3,3-Gram Distance,0.4083579332088279
+cvs_pharmacy,3,gen_cvs_pharmacy_3.csv,ngd_3,3-Gram Distance,0.408108325297332
+cvs_pharmacy,4,gen_cvs_pharmacy_4.csv,ngd_3,3-Gram Distance,0.4086073306836887
+cvs_pharmacy,5,gen_cvs_pharmacy_5.csv,ngd_3,3-Gram Distance,0.4085242215574873
+cvs_pharmacy,AVG,--- ngd_3 MEAN ---,ngd_3,3-Gram Distance,0.408286502836461
+cvs_pharmacy,1,gen_cvs_pharmacy_1.csv,red,Relative Event Distribution,27.96335481388862
+cvs_pharmacy,2,gen_cvs_pharmacy_2.csv,red,Relative Event Distribution,28.89280561700491
+cvs_pharmacy,3,gen_cvs_pharmacy_3.csv,red,Relative Event Distribution,28.46720207752236
+cvs_pharmacy,4,gen_cvs_pharmacy_4.csv,red,Relative Event Distribution,29.08589016062326
+cvs_pharmacy,5,gen_cvs_pharmacy_5.csv,red,Relative Event Distribution,28.85830047128979
+cvs_pharmacy,AVG,--- red MEAN ---,red,Relative Event Distribution,28.65351062806579

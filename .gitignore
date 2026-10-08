@@ -1,0 +1,11 @@
+input_files/
+*.pyc
+.spyproject/
+output_files/
+.idea/
+
+# 数据集
+data/input/xes/*.xes
+# 第三方jar包
+external_tools/*.jar
+external_tools/**/*.jar

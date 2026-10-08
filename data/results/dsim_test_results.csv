@@ -1,0 +1,91 @@
+dataset,run,metric,metric_name,value
+BPI_Challenge_2012_W_Two_TS,1,dl,Damerau-Levenshtein (similarity),0.5143037534
+BPI_Challenge_2012_W_Two_TS,1,mae,MAE Cycle Time (seconds),525359.8846
+BPI_Challenge_2012_W_Two_TS,1,day_hour_emd,Day-Hour EMD (distance),0.01255493201
+BPI_Challenge_2012_W_Two_TS,2,dl,Damerau-Levenshtein (similarity),0.5022799974
+BPI_Challenge_2012_W_Two_TS,2,mae,MAE Cycle Time (seconds),522946.272
+BPI_Challenge_2012_W_Two_TS,2,day_hour_emd,Day-Hour EMD (distance),0.0308912884
+BPI_Challenge_2012_W_Two_TS,3,dl,Damerau-Levenshtein (similarity),0.5174502131
+BPI_Challenge_2012_W_Two_TS,3,mae,MAE Cycle Time (seconds),508909.7706
+BPI_Challenge_2012_W_Two_TS,3,day_hour_emd,Day-Hour EMD (distance),0.01264659158
+BPI_Challenge_2012_W_Two_TS,4,dl,Damerau-Levenshtein (similarity),0.5145748753
+BPI_Challenge_2012_W_Two_TS,4,mae,MAE Cycle Time (seconds),521323.768
+BPI_Challenge_2012_W_Two_TS,4,day_hour_emd,Day-Hour EMD (distance),0.01213111185
+BPI_Challenge_2012_W_Two_TS,5,dl,Damerau-Levenshtein (similarity),0.5069713877
+BPI_Challenge_2012_W_Two_TS,5,mae,MAE Cycle Time (seconds),515324.4184
+BPI_Challenge_2012_W_Two_TS,5,day_hour_emd,Day-Hour EMD (distance),0.03710287241
+BPI_Challenge_2017_W_Two_TS,1,dl,Damerau-Levenshtein (similarity),0.6426821156
+BPI_Challenge_2017_W_Two_TS,1,mae,MAE Cycle Time (seconds),414051.458
+BPI_Challenge_2017_W_Two_TS,1,day_hour_emd,Day-Hour EMD (distance),0.04763803031
+BPI_Challenge_2017_W_Two_TS,2,dl,Damerau-Levenshtein (similarity),0.6418027306
+BPI_Challenge_2017_W_Two_TS,2,mae,MAE Cycle Time (seconds),426386.0906
+BPI_Challenge_2017_W_Two_TS,2,day_hour_emd,Day-Hour EMD (distance),0.04166911625
+BPI_Challenge_2017_W_Two_TS,3,dl,Damerau-Levenshtein (similarity),0.6516118904
+BPI_Challenge_2017_W_Two_TS,3,mae,MAE Cycle Time (seconds),405411.648
+BPI_Challenge_2017_W_Two_TS,3,day_hour_emd,Day-Hour EMD (distance),0.03571681103
+BPI_Challenge_2017_W_Two_TS,4,dl,Damerau-Levenshtein (similarity),0.6417741182
+BPI_Challenge_2017_W_Two_TS,4,mae,MAE Cycle Time (seconds),408800.6757
+BPI_Challenge_2017_W_Two_TS,4,day_hour_emd,Day-Hour EMD (distance),0.04167091811
+BPI_Challenge_2017_W_Two_TS,5,dl,Damerau-Levenshtein (similarity),0.6448047769
+BPI_Challenge_2017_W_Two_TS,5,mae,MAE Cycle Time (seconds),389613.5341
+BPI_Challenge_2017_W_Two_TS,5,day_hour_emd,Day-Hour EMD (distance),0.0476380328
+ConsultaDataMining201618,1,dl,Damerau-Levenshtein (similarity),0.7707558579
+ConsultaDataMining201618,1,mae,MAE Cycle Time (seconds),144895.9714
+ConsultaDataMining201618,1,day_hour_emd,Day-Hour EMD (distance),0.1929846544
+ConsultaDataMining201618,2,dl,Damerau-Levenshtein (similarity),0.8007861979
+ConsultaDataMining201618,2,mae,MAE Cycle Time (seconds),221913.0286
+ConsultaDataMining201618,2,day_hour_emd,Day-Hour EMD (distance),0.2715934892
+ConsultaDataMining201618,3,dl,Damerau-Levenshtein (similarity),0.8139311482
+ConsultaDataMining201618,3,mae,MAE Cycle Time (seconds),188739.9048
+ConsultaDataMining201618,3,day_hour_emd,Day-Hour EMD (distance),0.197194769
+ConsultaDataMining201618,4,dl,Damerau-Levenshtein (similarity),0.792434206
+ConsultaDataMining201618,4,mae,MAE Cycle Time (seconds),225570.8571
+ConsultaDataMining201618,4,day_hour_emd,Day-Hour EMD (distance),0.23310184
+ConsultaDataMining201618,5,dl,Damerau-Levenshtein (similarity),0.8052538995
+ConsultaDataMining201618,5,mae,MAE Cycle Time (seconds),236877.4571
+ConsultaDataMining201618,5,day_hour_emd,Day-Hour EMD (distance),0.1707301333
+Production,1,dl,Damerau-Levenshtein (similarity),0.2335123041
+Production,1,mae,MAE Cycle Time (seconds),148827.2593
+Production,1,day_hour_emd,Day-Hour EMD (distance),0.04054850202
+Production,2,dl,Damerau-Levenshtein (similarity),0.2571193966
+Production,2,mae,MAE Cycle Time (seconds),183471.9259
+Production,2,day_hour_emd,Day-Hour EMD (distance),0.06849315071
+Production,3,dl,Damerau-Levenshtein (similarity),0.2093973618
+Production,3,mae,MAE Cycle Time (seconds),138193.7778
+Production,3,day_hour_emd,Day-Hour EMD (distance),2.122188009e-06
+Production,4,dl,Damerau-Levenshtein (similarity),0.2080858333
+Production,4,mae,MAE Cycle Time (seconds),131523.8889
+Production,4,day_hour_emd,Day-Hour EMD (distance),0.0694444445
+Production,5,dl,Damerau-Levenshtein (similarity),0.2446118819
+Production,5,mae,MAE Cycle Time (seconds),179182.9259
+Production,5,day_hour_emd,Day-Hour EMD (distance),0.05405405415
+PurchasingExample,1,dl,Damerau-Levenshtein (similarity),0.7058131078
+PurchasingExample,1,mae,MAE Cycle Time (seconds),2285236.5
+PurchasingExample,1,day_hour_emd,Day-Hour EMD (distance),0.08893981775
+PurchasingExample,2,dl,Damerau-Levenshtein (similarity),0.7885594391
+PurchasingExample,2,mae,MAE Cycle Time (seconds),2312359.617
+PurchasingExample,2,day_hour_emd,Day-Hour EMD (distance),0.1594202982
+PurchasingExample,3,dl,Damerau-Levenshtein (similarity),0.7900532331
+PurchasingExample,3,mae,MAE Cycle Time (seconds),2290721.417
+PurchasingExample,3,day_hour_emd,Day-Hour EMD (distance),0.1094499095
+PurchasingExample,4,dl,Damerau-Levenshtein (similarity),0.7718049858
+PurchasingExample,4,mae,MAE Cycle Time (seconds),2495672.183
+PurchasingExample,4,day_hour_emd,Day-Hour EMD (distance),0.1407463388
+PurchasingExample,5,dl,Damerau-Levenshtein (similarity),0.8450512612
+PurchasingExample,5,mae,MAE Cycle Time (seconds),2267728.333
+PurchasingExample,5,day_hour_emd,Day-Hour EMD (distance),0.1693039087
+cvs_pharmacy,1,dl,Damerau-Levenshtein (similarity),0.8041270951
+cvs_pharmacy,1,mae,MAE Cycle Time (seconds),160649.2656
+cvs_pharmacy,1,day_hour_emd,Day-Hour EMD (distance),4.957644221e-06
+cvs_pharmacy,2,dl,Damerau-Levenshtein (similarity),0.8037109457
+cvs_pharmacy,2,mae,MAE Cycle Time (seconds),162850.5551
+cvs_pharmacy,2,day_hour_emd,Day-Hour EMD (distance),2.166296438e-07
+cvs_pharmacy,3,dl,Damerau-Levenshtein (similarity),0.8026633822
+cvs_pharmacy,3,mae,MAE Cycle Time (seconds),166977.5925
+cvs_pharmacy,3,day_hour_emd,Day-Hour EMD (distance),3.2103809e-06
+cvs_pharmacy,4,dl,Damerau-Levenshtein (similarity),0.802800686
+cvs_pharmacy,4,mae,MAE Cycle Time (seconds),160438.0752
+cvs_pharmacy,4,day_hour_emd,Day-Hour EMD (distance),8.27881794e-06
+cvs_pharmacy,5,dl,Damerau-Levenshtein (similarity),0.8044689588
+cvs_pharmacy,5,mae,MAE Cycle Time (seconds),153858.6614
+cvs_pharmacy,5,day_hour_emd,Day-Hour EMD (distance),4.585103279e-06

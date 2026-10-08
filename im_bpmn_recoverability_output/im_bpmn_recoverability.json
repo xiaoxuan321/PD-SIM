@@ -1,0 +1,68 @@
+{
+  "pm4py_version": "2.7.4",
+  "xes": "E:\\DPSIM-1\\DP-SIM123full\\input_files\\event_logs\\exp_data\\Production\\log_test.xes",
+  "target_bpmn": "E:\\DPSIM-1\\DP-SIM123full\\input_files\\bpmn_models\\Production.bpmn",
+  "comparison": "canonical_bpmn_control_flow_isomorphism",
+  "normalization_rules": {
+    "ignore_xml_ids_and_layout": true,
+    "ignore_non_control_artifacts": [
+      "Collaboration",
+      "DataObject",
+      "DataObjectReference",
+      "DataStoreReference",
+      "Group",
+      "Lane",
+      "Participant",
+      "TextAnnotation"
+    ],
+    "compare_only_sequence_flow": true,
+    "normalize_task_subtypes_to_activity": true,
+    "ignore_gateway_and_event_names": true,
+    "activity_names_must_match": true,
+    "gateway_types_must_match": true,
+    "full_directed_topology_must_be_isomorphic": true
+  },
+  "threshold_start": 0.0,
+  "threshold_end": 1.0,
+  "threshold_step": 0.001,
+  "thresholds_checked": 1001,
+  "errors_during_scan": 0,
+  "first_errors": [],
+  "final_answer": "NO_ON_SCANNED_GRID",
+  "recoverable_by_im_on_scanned_grid": false,
+  "matched_threshold_debug_only": null,
+  "target_graph_summary": {
+    "control_node_count": 63,
+    "sequence_flow_count": 101,
+    "node_kind_counts": {
+      "Activity": 18,
+      "EndEvent": 1,
+      "ExclusiveGateway": 35,
+      "ParallelGateway": 8,
+      "StartEvent": 1
+    },
+    "activities": [
+      "Change Version",
+      "Final Inspection Q.C.",
+      "Fix",
+      "Flat Grinding",
+      "Grinding Rework",
+      "Lapping",
+      "Laser Marking",
+      "Nitration Q.C.",
+      "Packing",
+      "Rework Milling",
+      "Round Grinding",
+      "Round Q.C.",
+      "Stress Relief",
+      "Turn & Mill. & Screw Assem",
+      "Turning",
+      "Turning & Milling",
+      "Turning & Milling Q.C.",
+      "Turning Q.C."
+    ]
+  },
+  "matched_bpmn": null,
+  "matched_bpmn_save_error": null,
+  "important_note": "NO_ON_SCANNED_GRID means no exact canonical control-flow match was found on the tested discrete threshold grid. Reduce --step if a finer search is required."
+}

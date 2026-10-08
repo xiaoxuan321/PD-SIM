@@ -1,0 +1,49 @@
+log_name,run_num,sim_file,metric,metric_name,sim_val
+BPI_Challenge_2012_W_Two_TS,1,gen_BPI_Challenge_2012_W_Two_TS_1.csv,aed,Absolute Event Distribution,679.6333751568382
+BPI_Challenge_2012_W_Two_TS,2,gen_BPI_Challenge_2012_W_Two_TS_2.csv,aed,Absolute Event Distribution,688.9089711417816
+BPI_Challenge_2012_W_Two_TS,3,gen_BPI_Challenge_2012_W_Two_TS_3.csv,aed,Absolute Event Distribution,662.8144918444166
+BPI_Challenge_2012_W_Two_TS,4,gen_BPI_Challenge_2012_W_Two_TS_4.csv,aed,Absolute Event Distribution,626.7319949811795
+BPI_Challenge_2012_W_Two_TS,5,gen_BPI_Challenge_2012_W_Two_TS_5.csv,aed,Absolute Event Distribution,673.395922208281
+BPI_Challenge_2012_W_Two_TS,AVG,--- aed MEAN ---,aed,Absolute Event Distribution,666.2969510664994
+BPI_Challenge_2012_W_Two_TS,1,gen_BPI_Challenge_2012_W_Two_TS_1.csv,car,Case Arrival Rate,119.4780526735834
+BPI_Challenge_2012_W_Two_TS,2,gen_BPI_Challenge_2012_W_Two_TS_2.csv,car,Case Arrival Rate,119.4780526735834
+BPI_Challenge_2012_W_Two_TS,3,gen_BPI_Challenge_2012_W_Two_TS_3.csv,car,Case Arrival Rate,119.4780526735834
+BPI_Challenge_2012_W_Two_TS,4,gen_BPI_Challenge_2012_W_Two_TS_4.csv,car,Case Arrival Rate,119.4780526735834
+BPI_Challenge_2012_W_Two_TS,5,gen_BPI_Challenge_2012_W_Two_TS_5.csv,car,Case Arrival Rate,119.4780526735834
+BPI_Challenge_2012_W_Two_TS,AVG,--- car MEAN ---,car,Case Arrival Rate,119.4780526735834
+BPI_Challenge_2012_W_Two_TS,1,gen_BPI_Challenge_2012_W_Two_TS_1.csv,ced,Circadian Event Distribution,2.239379817171536
+BPI_Challenge_2012_W_Two_TS,2,gen_BPI_Challenge_2012_W_Two_TS_2.csv,ced,Circadian Event Distribution,2.16922387524646
+BPI_Challenge_2012_W_Two_TS,3,gen_BPI_Challenge_2012_W_Two_TS_3.csv,ced,Circadian Event Distribution,2.210279620003585
+BPI_Challenge_2012_W_Two_TS,4,gen_BPI_Challenge_2012_W_Two_TS_4.csv,ced,Circadian Event Distribution,2.194120810181036
+BPI_Challenge_2012_W_Two_TS,5,gen_BPI_Challenge_2012_W_Two_TS_5.csv,ced,Circadian Event Distribution,2.220102168847464
+BPI_Challenge_2012_W_Two_TS,AVG,--- ced MEAN ---,ced,Circadian Event Distribution,2.206621258290016
+BPI_Challenge_2012_W_Two_TS,1,gen_BPI_Challenge_2012_W_Two_TS_1.csv,cfld,Control-flow Log Distance (CFLD),0.4396160502651716
+BPI_Challenge_2012_W_Two_TS,2,gen_BPI_Challenge_2012_W_Two_TS_2.csv,cfld,Control-flow Log Distance (CFLD),0.4266764717693986
+BPI_Challenge_2012_W_Two_TS,3,gen_BPI_Challenge_2012_W_Two_TS_3.csv,cfld,Control-flow Log Distance (CFLD),0.4285334387265028
+BPI_Challenge_2012_W_Two_TS,4,gen_BPI_Challenge_2012_W_Two_TS_4.csv,cfld,Control-flow Log Distance (CFLD),0.4203326113488516
+BPI_Challenge_2012_W_Two_TS,5,gen_BPI_Challenge_2012_W_Two_TS_5.csv,cfld,Control-flow Log Distance (CFLD),0.4293233672141675
+BPI_Challenge_2012_W_Two_TS,AVG,--- cfld MEAN ---,cfld,Control-flow Log Distance (CFLD),0.4288963878648184
+BPI_Challenge_2012_W_Two_TS,1,gen_BPI_Challenge_2012_W_Two_TS_1.csv,ctd,Cycle Time Distribution,131.6504389465286
+BPI_Challenge_2012_W_Two_TS,2,gen_BPI_Challenge_2012_W_Two_TS_2.csv,ctd,Cycle Time Distribution,129.4245810055869
+BPI_Challenge_2012_W_Two_TS,3,gen_BPI_Challenge_2012_W_Two_TS_3.csv,ctd,Cycle Time Distribution,129.1612130885876
+BPI_Challenge_2012_W_Two_TS,4,gen_BPI_Challenge_2012_W_Two_TS_4.csv,ctd,Cycle Time Distribution,130.5578611332804
+BPI_Challenge_2012_W_Two_TS,5,gen_BPI_Challenge_2012_W_Two_TS_5.csv,ctd,Cycle Time Distribution,134.4429369513171
+BPI_Challenge_2012_W_Two_TS,AVG,--- ctd MEAN ---,ctd,Cycle Time Distribution,131.0474062250601
+BPI_Challenge_2012_W_Two_TS,1,gen_BPI_Challenge_2012_W_Two_TS_1.csv,ngd_2,2-Gram Distance,0.4480404011665126
+BPI_Challenge_2012_W_Two_TS,2,gen_BPI_Challenge_2012_W_Two_TS_2.csv,ngd_2,2-Gram Distance,0.4359943977591036
+BPI_Challenge_2012_W_Two_TS,3,gen_BPI_Challenge_2012_W_Two_TS_3.csv,ngd_2,2-Gram Distance,0.4493019320265125
+BPI_Challenge_2012_W_Two_TS,4,gen_BPI_Challenge_2012_W_Two_TS_4.csv,ngd_2,2-Gram Distance,0.4346943063239723
+BPI_Challenge_2012_W_Two_TS,5,gen_BPI_Challenge_2012_W_Two_TS_5.csv,ngd_2,2-Gram Distance,0.4521167573680119
+BPI_Challenge_2012_W_Two_TS,AVG,--- ngd_2 MEAN ---,ngd_2,2-Gram Distance,0.4440295589288226
+BPI_Challenge_2012_W_Two_TS,1,gen_BPI_Challenge_2012_W_Two_TS_1.csv,ngd_3,3-Gram Distance,0.487111379414428
+BPI_Challenge_2012_W_Two_TS,2,gen_BPI_Challenge_2012_W_Two_TS_2.csv,ngd_3,3-Gram Distance,0.4768259263672108
+BPI_Challenge_2012_W_Two_TS,3,gen_BPI_Challenge_2012_W_Two_TS_3.csv,ngd_3,3-Gram Distance,0.4918504314477469
+BPI_Challenge_2012_W_Two_TS,4,gen_BPI_Challenge_2012_W_Two_TS_4.csv,ngd_3,3-Gram Distance,0.4729818290140006
+BPI_Challenge_2012_W_Two_TS,5,gen_BPI_Challenge_2012_W_Two_TS_5.csv,ngd_3,3-Gram Distance,0.4848393875712999
+BPI_Challenge_2012_W_Two_TS,AVG,--- ngd_3 MEAN ---,ngd_3,3-Gram Distance,0.4827217907629372
+BPI_Challenge_2012_W_Two_TS,1,gen_BPI_Challenge_2012_W_Two_TS_1.csv,red,Relative Event Distribution,401.6051442910916
+BPI_Challenge_2012_W_Two_TS,2,gen_BPI_Challenge_2012_W_Two_TS_2.csv,red,Relative Event Distribution,382.6222710163112
+BPI_Challenge_2012_W_Two_TS,3,gen_BPI_Challenge_2012_W_Two_TS_3.csv,red,Relative Event Distribution,391.0463613550816
+BPI_Challenge_2012_W_Two_TS,4,gen_BPI_Challenge_2012_W_Two_TS_4.csv,red,Relative Event Distribution,381.8795483061481
+BPI_Challenge_2012_W_Two_TS,5,gen_BPI_Challenge_2012_W_Two_TS_5.csv,red,Relative Event Distribution,392.0863864491844
+BPI_Challenge_2012_W_Two_TS,AVG,--- red MEAN ---,red,Relative Event Distribution,389.8479422835634

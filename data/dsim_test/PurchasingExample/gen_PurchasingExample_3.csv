@@ -1,0 +1,1063 @@
+caseid,task,resource,role,end_timestamp,pr_instances,tsk_start_inst,rp_start_oc,start_timestamp
+Case1,Create Purchase Requisition,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-06-20 22:28:15,41,0,0.0,2011-06-20 22:20:14
+Case1,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-20 23:54:08,41,0,0.0,2011-06-20 23:39:46
+Case2,Create Purchase Requisition,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-06-21 04:05:22,42,0,0.0,2011-06-21 03:56:14
+Case3,Create Purchase Requisition,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-21 05:50:58,43,0,0.0,2011-06-21 05:41:53
+Case4,Create Purchase Requisition,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-21 06:15:54,44,0,0.0,2011-06-21 06:06:50
+Case2,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-21 06:48:16,44,0,0.0,2011-06-21 06:31:52
+Case5,Create Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-21 07:58:08,45,0,0.0,2011-06-21 07:49:07
+Case3,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-21 08:34:48,45,0,0.0,2011-06-21 08:18:17
+Case4,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-21 09:00:36,45,0,0.0,2011-06-21 08:44:02
+Case6,Create Purchase Requisition,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-06-21 09:40:47,46,0,0.0,2011-06-21 09:31:48
+Case7,Create Purchase Requisition,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-06-21 10:22:45,47,0,0.0,2011-06-21 10:13:47
+Case8,Create Purchase Requisition,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-06-21 11:01:45,48,0,0.0,2011-06-21 10:52:48
+Case7,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-21 13:10:12,48,0,0.0,2011-06-21 12:53:21
+Case8,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-21 13:50:05,48,0,0.0,2011-06-21 13:33:11
+Case9,Create Purchase Requisition,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-06-21 17:18:41,49,0,0.0,2011-06-21 17:09:51
+Case10,Create Purchase Requisition,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-06-21 18:21:28,50,0,0.0,2011-06-21 18:12:38
+Case9,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-21 20:08:16,50,0,0.0,2011-06-21 19:50:57
+Case11,Create Purchase Requisition,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-06-21 22:50:15,51,0,0.0,2011-06-21 22:41:28
+Case12,Create Purchase Requisition,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-06-22 00:24:04,52,0,0.0,2011-06-22 00:14:53
+Case11,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-22 01:40:41,52,0,0.0,2011-06-22 01:24:11
+Case13,Create Purchase Requisition,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-06-22 01:50:42,53,0,0.0,2011-06-22 01:41:36
+Case5,Analyze Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 3,2011-06-22 03:12:33,53,0,0.0,2011-06-22 03:07:11
+Case14,Create Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-22 03:17:15,54,0,0.0,2011-06-22 03:08:13
+Case5,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-22 03:43:27,54,0,0.0,2011-06-22 03:22:20
+Case13,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-22 04:10:34,54,0,0.0,2011-06-22 03:55:22
+Case15,Create Purchase Requisition,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-06-22 04:48:01,55,0,0.0,2011-06-22 04:39:04
+Case6,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-22 04:55:23,55,0,0.0,2011-06-22 04:50:05
+Case16,Create Purchase Requisition,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-22 05:07:10,55,0,0.0,2011-06-22 04:58:13
+Case17,Create Purchase Requisition,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-22 05:53:22,56,0,0.0,2011-06-22 05:44:28
+Case15,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-22 07:09:24,56,0,0.0,2011-06-22 06:54:04
+Case16,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-22 07:28:34,56,0,0.0,2011-06-22 07:13:13
+Case18,Create Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-22 07:50:14,57,0,0.0,2011-06-22 07:41:24
+Case17,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-22 08:15:31,57,0,0.0,2011-06-22 08:00:08
+Case19,Create Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-22 09:51:22,58,0,0.0,2011-06-22 09:42:35
+Case20,Create Purchase Requisition,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-06-22 10:09:19,59,0,0.0,2011-06-22 10:00:33
+Case19,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-22 12:15:11,59,0,0.0,2011-06-22 11:59:36
+Case20,Create Request for Quotation,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 3,2011-06-22 12:33:53,59,0,0.0,2011-06-22 12:18:17
+Case21,Create Purchase Requisition,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-06-22 12:36:02,60,0,0.0,2011-06-22 12:27:20
+Case10,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-22 13:36:52,60,0,0.0,2011-06-22 13:31:45
+Case10,Create Request for Quotation,res_56ca3409-8479-4f16-b2af-387707523792,Role 3,2011-06-22 14:08:48,60,0,0.0,2011-06-22 13:47:49
+Case22,Create Purchase Requisition,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-06-22 14:15:28,61,0,0.0,2011-06-22 14:06:48
+Case21,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-22 15:01:27,61,0,0.0,2011-06-22 14:45:45
+Case23,Create Purchase Requisition,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-22 17:10:31,62,0,0.0,2011-06-22 17:01:54
+Case24,Create Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-22 18:18:12,63,0,0.0,2011-06-22 18:09:36
+Case1,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-22 18:58:46,63,0,0.0,2011-06-22 18:46:14
+Case12,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-22 19:43:12,63,0,0.0,2011-06-22 19:38:31
+Case1,Amend Request for Quotation,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-06-22 20:01:17,63,0,0.0,2011-06-22 19:45:24
+Case12,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-22 20:53:30,63,0,0.0,2011-06-22 20:33:52
+Case25,Create Purchase Requisition,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-22 21:47:44,64,0,0.0,2011-06-22 21:39:11
+Case26,Create Purchase Requisition,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-22 21:55:00,65,1,0.07142857142857142,2011-06-22 21:46:31
+Case14,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-22 22:37:58,65,0,0.0,2011-06-22 22:33:20
+Case27,Create Purchase Requisition,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-06-23 01:16:49,66,0,0.0,2011-06-23 01:08:29
+Case2,Analyze Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 4,2011-06-23 03:13:53,66,0,0.0,2011-06-23 02:59:34
+Case18,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-23 03:15:15,67,0,0.0,2011-06-23 03:08:55
+Case28,Create Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 1,2011-06-23 03:16:42,67,0,0.0,2011-06-23 03:08:24
+Case27,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-23 03:35:39,67,0,0.0,2011-06-23 03:18:25
+Case29,Create Purchase Requisition,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-06-23 04:12:22,68,0,0.0,2011-06-23 04:04:04
+Case30,Create Purchase Requisition,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-23 04:55:21,69,0,0.0,2011-06-23 04:47:04
+Case3,Analyze Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-23 05:31:50,69,0,0.0,2011-06-23 05:17:42
+Case28,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-23 05:36:18,69,0,0.0,2011-06-23 05:18:58
+Case4,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-23 06:10:47,69,0,0.0,2011-06-23 05:56:40
+Case31,Create Purchase Requisition,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-23 07:17:06,70,0,0.0,2011-06-23 07:08:50
+Case32,Create Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-23 09:15:39,71,0,0.0,2011-06-23 09:07:23
+Case31,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-23 09:39:01,71,0,0.0,2011-06-23 09:21:26
+Case22,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-23 09:43:24,71,0,0.3333333333333333,2011-06-23 09:37:51
+Case33,Create Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 1,2011-06-23 10:08:29,72,0,0.0,2011-06-23 10:00:14
+Case22,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-23 10:26:07,72,0,0.0,2011-06-23 10:03:41
+Case18,Amend Purchase Requisition,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-06-23 10:57:49,72,0,0.0,2011-06-23 10:38:02
+Case32,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-23 11:38:23,72,0,0.0,2011-06-23 11:20:41
+Case34,Create Purchase Requisition,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-06-23 11:50:36,73,0,0.0,2011-06-23 11:42:21
+Case7,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-23 12:01:12,73,0,0.0,2011-06-23 11:47:22
+Case35,Create Purchase Requisition,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-06-23 12:15:34,74,0,0.0,2011-06-23 12:07:19
+Case23,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-23 12:40:03,74,0,0.0,2011-06-23 12:33:53
+Case7,Amend Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-06-23 12:48:59,74,0,0.0,2011-06-23 12:28:59
+Case8,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-23 12:55:21,73,0,0.0,2011-06-23 12:41:32
+Case36,Create Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 1,2011-06-23 13:47:54,74,0,0.0,2011-06-23 13:39:39
+Case24,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-23 13:48:45,74,0,0.0,2011-06-23 13:42:34
+Case24,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-23 14:33:19,74,0,0.0,2011-06-23 14:11:17
+Case14,Amend Purchase Requisition,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-06-23 15:01:46,74,0,0.0,2011-06-23 14:42:45
+Case37,Create Purchase Requisition,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-23 15:25:24,75,0,0.0,2011-06-23 15:17:10
+Case38,Create Purchase Requisition,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-06-23 16:10:37,76,0,0.0,2011-06-23 16:02:23
+Case36,Create Request for Quotation,res_56ca3409-8479-4f16-b2af-387707523792,Role 3,2011-06-23 16:13:02,75,0,0.0,2011-06-23 15:55:06
+Case26,Analyze Purchase Requisition,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 3,2011-06-23 17:28:19,76,0,0.0,2011-06-23 17:21:25
+Case25,Analyze Purchase Requisition,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 3,2011-06-23 17:30:02,76,1,0.3333333333333333,2011-06-23 17:24:53
+Case39,Create Purchase Requisition,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-06-23 17:35:03,77,0,0.0,2011-06-23 17:26:49
+Case26,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-23 19:13:08,76,0,0.0,2011-06-23 18:50:21
+Case9,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-23 20:10:37,76,0,0.0,2011-06-23 19:56:59
+Case40,Create Purchase Requisition,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-06-23 20:47:20,77,0,0.0,2011-06-23 20:39:06
+Case41,Create Purchase Requisition,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-06-23 22:25:43,78,0,0.0,2011-06-23 22:17:29
+Case40,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-23 23:15:03,78,0,0.0,2011-06-23 22:56:45
+Case29,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-23 23:33:57,78,0,0.0,2011-06-23 23:27:34
+Case30,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-24 00:17:27,77,0,0.0,2011-06-24 00:10:48
+Case42,Create Purchase Requisition,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-24 00:48:40,78,0,0.0,2011-06-24 00:40:14
+Case30,Create Request for Quotation,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 3,2011-06-24 00:56:16,77,0,0.0,2011-06-24 00:30:35
+Case43,Create Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-24 01:08:01,79,0,0.0,2011-06-24 00:59:36
+Case44,Create Purchase Requisition,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-06-24 02:20:26,80,0,0.0,2011-06-24 02:12:03
+Case43,Create Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 3,2011-06-24 03:30:18,80,0,0.0,2011-06-24 03:13:33
+Case44,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-24 04:43:36,80,0,0.0,2011-06-24 04:26:46
+Case33,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-24 05:31:17,80,0,0.0,2011-06-24 05:24:41
+Case2,Send Request for Quotation to Supplier,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-24 05:50:17,80,0,0.0,2011-06-24 03:21:47
+Case33,Create Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 3,2011-06-24 06:11:24,80,0,0.0,2011-06-24 05:45:40
+Case34,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-24 07:13:39,81,0,0.0,2011-06-24 07:07:04
+Case45,Create Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 1,2011-06-24 07:13:48,81,0,0.0,2011-06-24 07:05:32
+Case35,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-24 07:38:56,80,0,0.0,2011-06-24 07:32:17
+Case35,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-24 08:19:34,80,0,0.0,2011-06-24 07:53:46
+Case3,Send Request for Quotation to Supplier,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 4,2011-06-24 08:22:16,80,0,0.0,2011-06-24 05:54:31
+Case4,Send Request for Quotation to Supplier,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 4,2011-06-24 09:16:37,80,1,0.3333333333333333,2011-06-24 06:33:28
+Case46,Create Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 1,2011-06-24 10:45:40,81,0,0.0,2011-06-24 10:37:27
+Case37,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-24 10:49:02,81,0,0.0,2011-06-24 10:42:23
+Case18,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-24 10:52:52,81,1,0.3333333333333333,2011-06-24 10:43:26
+Case47,Create Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 1,2011-06-24 11:30:39,80,0,0.0,2011-06-24 11:22:26
+Case38,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-24 11:34:33,80,0,0.0,2011-06-24 11:27:51
+Case39,Analyze Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 3,2011-06-24 12:59:03,79,0,0.0,2011-06-24 12:52:17
+Case48,Create Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-24 13:02:32,80,0,0.0,2011-06-24 12:54:20
+Case49,Create Purchase Requisition,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-06-24 13:54:23,81,0,0.0,2011-06-24 13:46:12
+Case48,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-24 15:26:20,81,0,0.0,2011-06-24 15:08:52
+Case8,Send Request for Quotation to Supplier,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 4,2011-06-24 16:16:36,81,0,0.0,2011-06-24 13:51:13
+Case49,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-24 16:19:03,81,0,0.0,2011-06-24 16:01:31
+Case14,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-24 16:42:51,81,0,0.0,2011-06-24 16:34:25
+Case14,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-24 17:19:19,81,0,0.0,2011-06-24 16:55:56
+Case41,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-24 17:50:17,81,0,0.0,2011-06-24 17:43:29
+Case41,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-24 18:32:30,81,0,0.0,2011-06-24 18:06:22
+Case50,Create Purchase Requisition,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-06-24 19:41:02,82,0,0.0,2011-06-24 19:32:52
+Case42,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-24 20:04:49,82,0,0.0,2011-06-24 20:01:44
+Case51,Create Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-24 20:41:07,82,0,0.0,2011-06-24 20:32:57
+Case39,Amend Purchase Requisition,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-06-24 21:25:56,82,0,0.0,2011-06-24 21:05:27
+Case52,Create Purchase Requisition,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-06-24 22:32:04,83,0,0.0,2011-06-24 22:23:53
+Case53,Create Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-24 23:51:54,84,0,0.0,2011-06-24 23:43:43
+Case9,Send Request for Quotation to Supplier,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 4,2011-06-24 23:55:17,82,0,0.0,2011-06-24 21:32:23
+Case54,Create Purchase Requisition,res_b509ef2d-63a3-446c-bd3b-fb82550016d0,Role 1,2011-06-25 00:35:22,85,0,0.0,2011-06-25 00:26:52
+Case52,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-25 01:00:03,85,0,0.0,2011-06-25 00:40:50
+Case11,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-25 01:48:09,85,0,0.0,2011-06-25 01:34:03
+Case54,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-25 02:22:19,85,0,0.0,2011-06-25 02:04:41
+Case45,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-25 02:32:41,85,0,0.0,2011-06-25 02:27:30
+Case46,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-25 06:04:55,84,0,0.0,2011-06-25 05:59:41
+Case47,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-25 06:49:34,84,0,0.0,2011-06-25 06:44:21
+Case55,Create Purchase Requisition,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-06-25 07:19:48,85,0,0.0,2011-06-25 07:11:19
+Case2,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-25 08:12:18,85,0,0.0,2011-06-25 07:57:33
+Case13,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-25 09:15:49,85,0,0.0,2011-06-25 09:02:57
+Case46,Amend Purchase Requisition,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-25 09:22:56,85,0,0.0,2011-06-25 09:02:22
+Case47,Amend Purchase Requisition,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-25 10:03:20,84,0,0.0,2011-06-25 09:42:49
+Case3,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-25 10:04:45,84,0,0.0,2011-06-25 09:49:52
+Case56,Create Purchase Requisition,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-25 10:37:33,85,0,0.0,2011-06-25 10:29:04
+Case1,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-25 10:40:45,85,0,0.0,2011-06-25 10:29:25
+Case5,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-25 10:52:33,85,1,0.3333333333333333,2011-06-25 10:40:24
+Case57,Create Purchase Requisition,res_b509ef2d-63a3-446c-bd3b-fb82550016d0,Role 1,2011-06-25 11:02:10,85,0,0.0,2011-06-25 10:53:41
+Case4,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-25 11:37:41,85,0,0.0,2011-06-25 11:22:13
+Case56,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-25 12:25:11,85,0,0.0,2011-06-25 12:06:52
+Case15,Analyze Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-25 12:39:20,85,0,0.0,2011-06-25 12:26:35
+Case57,Create Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 3,2011-06-25 12:49:49,85,0,0.0,2011-06-25 12:31:29
+Case16,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-25 12:58:30,84,0,0.0,2011-06-25 12:45:45
+Case58,Create Purchase Requisition,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-25 13:36:38,85,0,0.07142857142857142,2011-06-25 13:28:11
+Case16,Amend Request for Quotation,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-25 13:46:45,84,0,0.0,2011-06-25 13:27:17
+Case59,Create Purchase Requisition,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-25 13:54:01,86,0,0.07142857142857142,2011-06-25 13:45:34
+Case17,Analyze Request for Quotation,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 4,2011-06-25 13:57:18,85,0,0.0,2011-06-25 13:44:35
+Case50,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-25 15:00:39,86,0,0.0,2011-06-25 14:55:22
+Case2,Analyze Quotation Comparison Map,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-06-25 15:03:12,86,0,0.0,2011-06-25 15:03:12
+Case58,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-25 15:27:19,86,1,0.3333333333333333,2011-06-25 15:13:00
+Case50,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-25 15:36:38,86,0,0.0,2011-06-25 15:11:08
+Case51,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-25 16:00:44,86,0,0.0,2011-06-25 15:55:27
+Case51,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-25 16:36:47,86,0,0.0,2011-06-25 16:11:13
+Case3,Analyze Quotation Comparison Map,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-06-25 16:54:13,86,0,0.07142857142857142,2011-06-25 16:54:13
+Case60,Create Purchase Requisition,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-06-25 17:39:10,87,0,0.14285714285714285,2011-06-25 17:30:45
+Case61,Create Purchase Requisition,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-25 18:03:05,88,0,0.14285714285714285,2011-06-25 17:54:40
+Case19,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-25 18:19:42,88,0,0.0,2011-06-25 18:07:09
+Case4,Analyze Quotation Comparison Map,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-06-25 18:28:37,88,0,0.14285714285714285,2011-06-25 18:28:37
+Case8,Create Quotation comparison Map,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 4,2011-06-25 18:33:51,88,0,0.3333333333333333,2011-06-25 18:18:29
+Case20,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-25 18:49:24,88,0,0.0,2011-06-25 18:36:51
+Case53,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-25 19:12:11,88,0,0.0,2011-06-25 19:06:52
+Case60,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-25 19:43:08,88,1,0.3333333333333333,2011-06-25 19:28:35
+Case53,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-25 19:49:16,88,0,0.0,2011-06-25 19:23:26
+Case61,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-25 20:12:00,88,0,0.0,2011-06-25 19:53:27
+Case62,Create Purchase Requisition,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-25 20:47:08,89,0,0.21428571428571427,2011-06-25 20:38:46
+Case21,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-25 21:27:39,89,0,0.0,2011-06-25 21:15:09
+Case10,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-25 22:22:43,88,0,0.0,2011-06-25 22:10:18
+Case10,Amend Request for Quotation,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-25 23:07:00,88,0,0.21428571428571427,2011-06-25 22:46:24
+Case63,Create Purchase Requisition,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-25 23:24:57,89,0,0.21428571428571427,2011-06-25 23:16:35
+Case64,Create Purchase Requisition,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-06-25 23:54:53,90,0,0.21428571428571427,2011-06-25 23:46:31
+Case2,Choose best option,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-06-26 00:13:19,86,0,0.0,2011-06-25 15:42:03
+Case8,Analyze Quotation Comparison Map,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-06-26 01:25:00,90,0,0.14285714285714285,2011-06-26 01:25:00
+Case3,Choose best option,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-06-26 01:52:37,86,1,0.07142857142857142,2011-06-25 17:26:37
+Case55,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-26 02:31:02,90,0,0.0,2011-06-26 02:24:57
+Case9,Create Quotation comparison Map,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 4,2011-06-26 02:36:25,90,0,0.3333333333333333,2011-06-26 02:20:59
+Case39,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-26 02:39:32,90,0,0.0,2011-06-26 02:31:23
+Case55,Create Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 3,2011-06-26 03:07:42,89,0,0.0,2011-06-26 02:46:21
+Case11,Send Request for Quotation to Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-26 03:14:00,90,0,0.0,2011-06-26 00:44:39
+Case12,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-26 03:14:05,89,0,0.3333333333333333,2011-06-26 03:01:22
+Case14,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-26 03:20:53,89,1,0.6666666666666666,2011-06-26 03:08:50
+Case4,Choose best option,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-26 03:35:04,88,2,0.14285714285714285,2011-06-25 19:17:08
+Case65,Create Purchase Requisition,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-06-26 03:47:06,90,0,0.07142857142857142,2011-06-26 03:38:34
+Case66,Create Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-26 07:28:43,91,0,0.07142857142857142,2011-06-26 07:20:14
+Case27,Analyze Request for Quotation,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 4,2011-06-26 07:29:58,90,0,0.3333333333333333,2011-06-26 07:16:06
+Case65,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-26 07:54:18,90,0,0.0,2011-06-26 07:38:47
+Case59,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-26 09:05:53,90,0,0.0,2011-06-26 08:59:30
+Case9,Analyze Quotation Comparison Map,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-06-26 09:29:34,91,0,0.14285714285714285,2011-06-26 09:29:16
+Case67,Create Purchase Requisition,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-06-26 09:36:25,91,0,0.07142857142857142,2011-06-26 09:27:58
+Case1,Send Request for Quotation to Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-26 09:52:39,90,0,0.0,2011-06-26 07:05:32
+Case28,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-26 09:54:12,91,0,0.3333333333333333,2011-06-26 09:40:20
+Case68,Create Purchase Requisition,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-26 10:20:25,92,0,0.14285714285714285,2011-06-26 10:12:01
+Case8,Choose best option,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-26 11:07:41,89,1,0.07142857142857142,2011-06-26 02:41:49
+Case69,Create Purchase Requisition,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-06-26 11:34:49,93,0,0.07142857142857142,2011-06-26 11:26:24
+Case46,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-26 12:32:41,93,0,0.0,2011-06-26 12:24:48
+Case70,Create Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 1,2011-06-26 13:06:21,94,0,0.07142857142857142,2011-06-26 12:57:57
+Case47,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-26 13:10:42,94,0,0.0,2011-06-26 13:02:51
+Case11,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-26 13:39:28,93,0,0.3333333333333333,2011-06-26 13:24:53
+Case22,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-26 14:46:17,93,0,0.3333333333333333,2011-06-26 14:32:27
+Case31,Analyze Request for Quotation,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 4,2011-06-26 14:52:40,93,1,0.6666666666666666,2011-06-26 14:39:28
+Case17,Send Request for Quotation to Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-26 14:55:00,93,0,0.0,2011-06-26 12:40:34
+Case71,Create Purchase Requisition,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-26 14:58:48,93,0,0.07142857142857142,2011-06-26 14:50:25
+Case1,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-26 15:10:15,93,0,0.3333333333333333,2011-06-26 14:54:43
+Case69,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-26 15:46:51,93,0,0.0,2011-06-26 15:30:49
+Case72,Create Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-26 15:57:25,94,0,0.07142857142857142,2011-06-26 15:49:03
+Case62,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-26 16:14:19,94,0,0.0,2011-06-26 16:07:31
+Case32,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-26 16:43:52,94,0,0.3333333333333333,2011-06-26 16:29:58
+Case73,Create Purchase Requisition,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-06-26 18:05:26,95,0,0.07142857142857142,2011-06-26 17:57:05
+Case9,Choose best option,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-06-26 18:07:01,91,1,0.07142857142857142,2011-06-26 09:56:09
+Case19,Send Request for Quotation to Supplier,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 4,2011-06-26 18:42:29,94,0,0.0,2011-06-26 16:26:38
+Case63,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-26 18:52:10,95,0,0.0,2011-06-26 18:45:20
+Case24,Analyze Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-26 19:18:28,95,0,0.3333333333333333,2011-06-26 19:04:45
+Case64,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-26 19:22:31,95,0,0.0,2011-06-26 19:15:39
+Case7,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-26 19:52:25,94,0,0.3333333333333333,2011-06-26 19:39:14
+Case74,Create Purchase Requisition,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-26 20:02:55,94,0,0.0,2011-06-26 19:54:32
+Case3,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-26 20:07:32,94,1,0.3333333333333333,2011-06-26 19:57:53
+Case20,Send Request for Quotation to Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-26 20:08:36,94,1,0.3333333333333333,2011-06-26 17:35:29
+Case31,Amend Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-26 20:16:44,94,0,0.07142857142857142,2011-06-26 19:54:41
+Case11,Analyze Quotation Comparison Map,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-26 20:29:25,94,0,0.0,2011-06-26 20:28:47
+Case46,Amend Purchase Requisition,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-26 20:57:24,94,0,0.07142857142857142,2011-06-26 20:41:00
+Case59,Amend Purchase Requisition,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-26 21:33:19,94,0,0.07142857142857142,2011-06-26 21:14:55
+Case36,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-26 22:02:05,94,0,0.0,2011-06-26 21:47:24
+Case1,Analyze Quotation Comparison Map,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-06-26 22:05:46,93,0,0.07142857142857142,2011-06-26 22:04:33
+Case26,Analyze Request for Quotation,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 4,2011-06-26 22:09:51,94,1,0.3333333333333333,2011-06-26 21:55:35
+Case73,Create Request for Quotation,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 3,2011-06-26 22:20:54,93,0,0.0,2011-06-26 22:04:23
+Case75,Create Purchase Requisition,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-26 22:35:16,94,0,0.14285714285714285,2011-06-26 22:27:03
+Case2,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-26 22:38:59,94,1,0.3333333333333333,2011-06-26 22:29:23
+Case17,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-26 22:43:51,94,0,0.0,2011-06-26 22:28:37
+Case32,Amend Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-06-26 23:45:28,94,0,0.14285714285714285,2011-06-26 23:24:07
+Case19,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-26 23:59:55,94,0,0.0,2011-06-26 23:44:28
+Case43,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-27 00:04:41,94,0,0.3333333333333333,2011-06-26 23:53:25
+Case76,Create Purchase Requisition,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-06-27 00:20:10,94,0,0.14285714285714285,2011-06-27 00:11:32
+Case4,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-27 01:10:33,94,1,0.6666666666666666,2011-06-27 01:00:38
+Case44,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-27 01:27:45,94,0,0.6666666666666666,2011-06-27 01:14:55
+Case3,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-27 01:43:32,94,0,0.6666666666666666,2011-06-27 01:28:27
+Case77,Create Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-27 02:05:09,95,0,0.14285714285714285,2011-06-27 01:56:36
+Case20,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-27 02:44:14,95,0,0.6666666666666666,2011-06-27 02:30:08
+Case62,Amend Purchase Requisition,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-27 02:50:17,95,0,0.14285714285714285,2011-06-27 02:29:18
+Case66,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-27 03:01:12,95,0,0.3333333333333333,2011-06-27 02:56:11
+Case76,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-27 03:04:06,95,0,0.0,2011-06-27 02:50:34
+Case12,Send Request for Quotation to Supplier,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 4,2011-06-27 03:17:35,94,1,0.3333333333333333,2011-06-27 00:55:14
+Case78,Create Purchase Requisition,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-27 03:21:52,96,0,0.14285714285714285,2011-06-27 03:13:23
+Case14,Send Request for Quotation to Supplier,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 4,2011-06-27 03:24:39,94,0,0.6666666666666666,2011-06-26 23:55:41
+Case79,Create Purchase Requisition,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-06-27 03:59:43,97,0,0.14285714285714285,2011-06-27 03:51:16
+Case12,Create Quotation comparison Map,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-27 04:44:34,97,0,0.0,2011-06-27 04:30:06
+Case77,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-27 04:51:04,97,0,0.0,2011-06-27 04:37:31
+Case11,Choose best option,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 1,2011-06-27 05:04:23,94,0,0.0,2011-06-26 20:34:19
+Case67,Analyze Purchase Requisition,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 3,2011-06-27 05:09:50,97,0,0.0,2011-06-27 05:03:53
+Case80,Create Purchase Requisition,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-06-27 05:13:30,98,0,0.07142857142857142,2011-06-27 05:05:06
+Case2,Create Purchase Order,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 4,2011-06-27 05:14:10,97,0,0.0,2011-06-27 04:58:26
+Case40,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-27 05:32:10,98,0,0.0,2011-06-27 05:15:53
+Case63,Amend Purchase Requisition,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-27 05:32:55,98,0,0.14285714285714285,2011-06-27 05:12:24
+Case17,Analyze Quotation Comparison Map,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-06-27 05:36:20,98,0,0.07142857142857142,2011-06-27 05:36:06
+Case14,Create Quotation comparison Map,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 4,2011-06-27 05:48:01,98,0,0.3333333333333333,2011-06-27 05:30:53
+Case68,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-27 05:54:44,98,0,0.0,2011-06-27 05:48:36
+Case30,Analyze Request for Quotation,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 4,2011-06-27 06:18:04,98,0,0.0,2011-06-27 06:03:04
+Case81,Create Purchase Requisition,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-27 06:24:11,99,0,0.14285714285714285,2011-06-27 06:15:51
+Case1,Choose best option,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-27 06:36:32,93,1,0.07142857142857142,2011-06-26 22:15:22
+Case8,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-27 06:41:04,98,1,0.0,2011-06-27 06:31:12
+Case68,Create Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 3,2011-06-27 06:50:12,98,0,0.0,2011-06-27 06:28:03
+Case19,Analyze Quotation Comparison Map,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-27 06:51:10,98,0,0.07142857142857142,2011-06-27 06:50:58
+Case4,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-27 07:20:42,98,0,0.0,2011-06-27 07:04:29
+Case82,Create Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 1,2011-06-27 08:35:41,99,0,0.14285714285714285,2011-06-27 08:27:25
+Case70,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-27 08:40:01,99,0,0.0,2011-06-27 08:34:07
+Case83,Create Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-27 09:08:25,100,0,0.14285714285714285,2011-06-27 09:00:10
+Case20,Analyze Quotation Comparison Map,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-27 09:38:07,100,0,0.14285714285714285,2011-06-27 09:38:07
+Case28,Send Request for Quotation to Supplier,res_56ca3409-8479-4f16-b2af-387707523792,Role 4,2011-06-27 10:12:08,99,0,0.0,2011-06-27 08:53:45
+Case71,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-27 10:32:18,100,0,0.0,2011-06-27 10:26:28
+Case44,Amend Request for Quotation,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-27 11:13:49,100,0,0.21428571428571427,2011-06-27 10:54:50
+Case72,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-27 11:30:02,100,0,0.3333333333333333,2011-06-27 11:25:11
+Case82,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-27 11:30:02,100,0,0.0,2011-06-27 11:16:15
+Case28,Create Quotation comparison Map,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 4,2011-06-27 11:38:01,100,0,0.0,2011-06-27 11:23:38
+Case12,Analyze Quotation Comparison Map,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-06-27 11:38:43,100,0,0.21428571428571427,2011-06-27 11:38:32
+Case33,Analyze Request for Quotation,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 4,2011-06-27 11:53:22,100,0,0.0,2011-06-27 11:38:59
+Case48,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-27 12:23:57,100,0,0.0,2011-06-27 12:09:29
+Case14,Analyze Quotation Comparison Map,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-27 12:46:11,100,0,0.2857142857142857,2011-06-27 12:46:11
+Case8,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-27 13:06:06,100,0,0.0,2011-06-27 12:48:58
+Case49,Analyze Request for Quotation,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 4,2011-06-27 13:24:30,100,0,0.0,2011-06-27 13:10:06
+Case72,Create Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 3,2011-06-27 13:33:54,100,0,0.0,2011-06-27 13:11:16
+Case11,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-27 13:35:51,99,1,0.0,2011-06-27 13:26:03
+Case67,Amend Purchase Requisition,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-06-27 13:44:48,99,0,0.35714285714285715,2011-06-27 13:25:03
+Case17,Choose best option,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-06-27 13:45:14,98,1,0.07142857142857142,2011-06-27 05:41:00
+Case35,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-27 14:03:13,99,0,0.0,2011-06-27 13:49:01
+Case9,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-27 14:26:58,99,1,0.0,2011-06-27 14:17:31
+Case19,Choose best option,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-27 14:57:26,98,1,0.07142857142857142,2011-06-27 06:51:11
+Case74,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-27 15:36:19,99,0,0.0,2011-06-27 15:30:41
+Case1,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-27 16:24:33,99,1,0.0,2011-06-27 16:14:33
+Case20,Choose best option,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 1,2011-06-27 16:51:13,100,2,0.14285714285714285,2011-06-27 09:41:42
+Case46,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-27 16:59:41,99,0,0.0,2011-06-27 16:49:53
+Case12,Choose best option,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 1,2011-06-27 17:05:32,100,3,0.21428571428571427,2011-06-27 11:43:57
+Case14,Choose best option,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 1,2011-06-27 17:12:20,100,4,0.2857142857142857,2011-06-27 13:21:33
+Case84,Create Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 1,2011-06-27 17:25:50,100,0,0.0,2011-06-27 17:17:48
+Case46,Create Request for Quotation,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 3,2011-06-27 17:42:02,100,0,0.0,2011-06-27 17:20:13
+Case70,Amend Purchase Requisition,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-06-27 17:57:19,100,0,0.0,2011-06-27 17:36:33
+Case75,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-27 18:09:46,100,0,0.0,2011-06-27 18:03:44
+Case28,Analyze Quotation Comparison Map,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-27 18:30:36,100,0,0.07142857142857142,2011-06-27 18:30:36
+Case85,Create Purchase Requisition,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-27 18:37:19,100,0,0.0,2011-06-27 18:29:18
+Case86,Create Purchase Requisition,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-27 19:16:57,101,0,0.07142857142857142,2011-06-27 19:08:57
+Case11,Create Purchase Order,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 4,2011-06-27 19:30:53,101,0,0.3333333333333333,2011-06-27 19:14:02
+Case59,Analyze Purchase Requisition,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 3,2011-06-27 19:33:05,101,0,0.3333333333333333,2011-06-27 19:24:33
+Case84,Create Request for Quotation,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 3,2011-06-27 19:36:10,101,0,0.0,2011-06-27 19:22:11
+Case24,Send Request for Quotation to Supplier,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 4,2011-06-27 19:37:29,100,0,0.0,2011-06-27 17:28:18
+Case71,Amend Purchase Requisition,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-06-27 19:49:40,101,0,0.07142857142857142,2011-06-27 19:29:34
+Case87,Create Purchase Requisition,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-06-27 20:35:12,101,0,0.07142857142857142,2011-06-27 20:27:13
+Case24,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-27 20:47:17,101,0,0.3333333333333333,2011-06-27 20:32:11
+Case52,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-27 20:55:46,101,0,0.6666666666666666,2011-06-27 20:43:26
+Case66,Amend Purchase Requisition,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-27 21:17:30,101,0,0.07142857142857142,2011-06-27 20:56:54
+Case9,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-27 21:46:02,101,0,0.3333333333333333,2011-06-27 21:32:14
+Case1,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-27 22:03:22,101,1,0.6666666666666666,2011-06-27 21:44:38
+Case26,Send Request for Quotation to Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-27 22:23:14,100,0,0.0,2011-06-27 20:08:36
+Case88,Create Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-27 22:40:39,102,0,0.07142857142857142,2011-06-27 22:32:42
+Case16,Analyze Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 4,2011-06-27 23:02:17,102,0,0.0,2011-06-27 22:49:44
+Case87,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-27 23:07:14,102,0,0.0,2011-06-27 22:53:04
+Case78,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-27 23:08:10,101,0,0.3333333333333333,2011-06-27 23:05:04
+Case89,Create Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 1,2011-06-27 23:45:44,102,0,0.07142857142857142,2011-06-27 23:37:48
+Case79,Analyze Purchase Requisition,res_56ca3409-8479-4f16-b2af-387707523792,Role 3,2011-06-27 23:47:43,102,0,0.0,2011-06-27 23:44:02
+Case62,Analyze Purchase Requisition,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 3,2011-06-28 00:01:59,102,0,0.0,2011-06-27 23:53:56
+Case52,Amend Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-28 00:05:14,102,0,0.07142857142857142,2011-06-27 23:45:46
+Case26,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-28 00:13:15,102,0,0.0,2011-06-27 23:57:41
+Case41,Analyze Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-28 00:25:34,102,0,0.3333333333333333,2011-06-28 00:12:23
+Case62,Create Request for Quotation,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 3,2011-06-28 00:34:45,102,1,0.3333333333333333,2011-06-28 00:18:28
+Case79,Create Request for Quotation,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 3,2011-06-28 00:36:49,102,0,0.0,2011-06-28 00:16:52
+Case74,Amend Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-28 00:51:46,102,0,0.07142857142857142,2011-06-28 00:32:51
+Case90,Create Purchase Requisition,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-28 00:54:14,103,0,0.14285714285714285,2011-06-28 00:45:16
+Case80,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-28 01:03:40,103,0,0.0,2011-06-28 00:58:57
+Case10,Analyze Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-28 01:06:55,103,0,0.0,2011-06-28 00:53:32
+Case19,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-28 01:47:08,102,1,0.0,2011-06-28 01:37:23
+Case12,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-28 01:53:34,102,2,0.3333333333333333,2011-06-28 01:43:12
+Case31,Analyze Request for Quotation,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 4,2011-06-28 02:03:16,102,0,0.3333333333333333,2011-06-28 01:50:16
+Case81,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-28 02:13:58,102,0,0.3333333333333333,2011-06-28 02:09:38
+Case89,Create Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-28 02:20:49,102,0,0.0,2011-06-28 02:05:18
+Case91,Create Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-28 02:32:05,102,0,0.07142857142857142,2011-06-28 02:23:06
+Case63,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-28 02:46:55,102,0,0.0,2011-06-28 02:38:27
+Case31,Amend Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 1,2011-06-28 02:50:59,102,0,0.07142857142857142,2011-06-28 02:32:11
+Case28,Choose best option,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 1,2011-06-28 02:56:22,100,0,0.0,2011-06-27 18:41:13
+Case24,Analyze Quotation Comparison Map,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-06-28 03:47:33,101,0,0.0,2011-06-28 03:47:27
+Case92,Create Purchase Requisition,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-06-28 04:02:50,102,0,0.0,2011-06-28 03:53:49
+Case44,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-28 04:54:27,102,0,0.3333333333333333,2011-06-28 04:42:29
+Case83,Analyze Purchase Requisition,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 3,2011-06-28 05:01:11,102,0,0.0,2011-06-28 04:56:14
+Case93,Create Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-28 05:21:43,102,0,0.07142857142857142,2011-06-28 05:12:46
+Case78,Amend Purchase Requisition,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 1,2011-06-28 05:42:08,102,0,0.07142857142857142,2011-06-28 05:24:22
+Case32,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-28 06:07:14,102,0,0.3333333333333333,2011-06-28 05:54:17
+Case17,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-28 06:15:16,102,1,0.6666666666666666,2011-06-28 06:05:35
+Case94,Create Purchase Requisition,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-28 06:35:57,103,0,0.07142857142857142,2011-06-28 06:27:01
+Case54,Analyze Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-28 06:42:53,103,0,0.3333333333333333,2011-06-28 06:29:10
+Case91,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-28 06:52:41,103,0,0.0,2011-06-28 06:37:13
+Case40,Send Request for Quotation to Supplier,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-28 06:55:05,102,0,0.0,2011-06-28 04:08:33
+Case26,Analyze Quotation Comparison Map,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-28 07:03:20,102,0,0.07142857142857142,2011-06-28 07:03:08
+Case14,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-28 07:35:03,102,1,0.0,2011-06-28 07:23:57
+Case92,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-28 08:23:38,102,0,0.0,2011-06-28 08:07:58
+Case12,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-28 08:40:15,102,0,0.0,2011-06-28 08:26:26
+Case95,Create Purchase Requisition,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-06-28 09:03:53,103,0,0.14285714285714285,2011-06-28 08:55:03
+Case40,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-28 09:20:37,103,0,0.0,2011-06-28 09:07:20
+Case19,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-28 10:04:21,103,0,0.3333333333333333,2011-06-28 09:50:47
+Case44,Amend Request for Quotation,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-06-28 10:31:22,103,0,0.14285714285714285,2011-06-28 10:12:43
+Case67,Analyze Purchase Requisition,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 3,2011-06-28 11:13:14,103,0,0.0,2011-06-28 11:05:42
+Case96,Create Purchase Requisition,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-28 11:15:14,104,0,0.14285714285714285,2011-06-28 11:06:25
+Case67,Create Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 3,2011-06-28 11:53:00,104,0,0.0,2011-06-28 11:34:12
+Case24,Choose best option,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-28 12:27:13,102,0,0.07142857142857142,2011-06-28 03:57:36
+Case97,Create Purchase Requisition,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-28 12:49:07,105,0,0.07142857142857142,2011-06-28 12:40:16
+Case33,Send Request for Quotation to Supplier,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 4,2011-06-28 12:59:15,103,0,0.0,2011-06-28 09:39:20
+Case98,Create Purchase Requisition,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 1,2011-06-28 13:22:19,106,0,0.07142857142857142,2011-06-28 13:13:28
+Case17,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-28 13:56:38,106,0,0.6666666666666666,2011-06-28 13:43:13
+Case20,Settle Conditions With Supplier,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 4,2011-06-28 14:08:18,106,1,0.6666666666666666,2011-06-28 13:58:32
+Case85,Analyze Purchase Requisition,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 3,2011-06-28 14:15:55,106,0,0.0,2011-06-28 14:11:16
+Case14,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-28 14:28:17,106,0,0.6666666666666666,2011-06-28 14:15:13
+Case48,Send Request for Quotation to Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-28 14:31:11,104,1,0.3333333333333333,2011-06-28 11:21:43
+Case86,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-28 15:03:22,106,1,0.3333333333333333,2011-06-28 14:59:15
+Case70,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-28 15:06:09,106,0,0.0,2011-06-28 14:59:13
+Case35,Send Request for Quotation to Supplier,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-28 15:14:40,104,2,0.6666666666666666,2011-06-28 11:48:28
+Case2,Confirm Purchase Order,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 2,2011-06-28 15:22:19,102,1,0.2,2011-06-28 02:33:26
+Case70,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-28 15:35:14,105,0,0.0,2011-06-28 15:15:57
+Case3,Confirm Purchase Order,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 2,2011-06-28 15:55:12,102,0,0.0,2011-06-28 01:56:26
+Case40,Analyze Quotation Comparison Map,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-28 15:59:41,105,0,0.07142857142857142,2011-06-28 15:58:33
+Case26,Choose best option,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-28 16:05:52,102,1,0.07142857142857142,2011-06-28 07:38:52
+Case56,Analyze Request for Quotation,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 4,2011-06-28 16:46:27,105,0,0.0,2011-06-28 16:32:02
+Case57,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-28 16:57:44,105,1,0.3333333333333333,2011-06-28 16:44:07
+Case71,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-28 17:05:04,104,0,0.0,2011-06-28 16:58:00
+Case28,Settle Conditions With Supplier,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 4,2011-06-28 17:06:06,105,1,0.6666666666666666,2011-06-28 16:56:22
+Case55,Analyze Request for Quotation,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 4,2011-06-28 17:06:58,105,1,0.3333333333333333,2011-06-28 16:53:47
+Case66,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-28 17:14:23,103,0,0.0,2011-06-28 17:07:06
+Case11,Confirm Purchase Order,res_56ca3409-8479-4f16-b2af-387707523792,Role 2,2011-06-28 17:47:03,106,4,0.8,2011-06-28 13:20:59
+Case98,Create Request for Quotation,res_56ca3409-8479-4f16-b2af-387707523792,Role 3,2011-06-28 17:50:24,102,0,0.0,2011-06-28 17:34:08
+Case55,Amend Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-28 18:07:52,102,0,0.07142857142857142,2011-06-28 17:45:34
+Case58,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-28 18:11:13,102,0,0.0,2011-06-28 17:55:42
+Case88,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-28 18:29:01,101,0,0.0,2011-06-28 18:24:03
+Case85,Amend Purchase Requisition,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-28 19:36:20,101,0,0.07142857142857142,2011-06-28 19:19:04
+Case33,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-28 19:50:40,101,0,0.3333333333333333,2011-06-28 19:36:01
+Case50,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-28 20:11:50,101,0,0.3333333333333333,2011-06-28 19:58:57
+Case90,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-28 20:20:38,101,0,0.0,2011-06-28 20:16:03
+Case4,Confirm Purchase Order,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 2,2011-06-28 20:23:09,102,3,0.6,2011-06-28 05:24:23
+Case10,Send Request for Quotation to Supplier,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-28 20:32:36,101,0,0.0,2011-06-28 19:08:17
+Case51,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-28 21:12:20,101,0,0.0,2011-06-28 20:59:06
+Case60,Analyze Request for Quotation,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 4,2011-06-28 22:06:02,101,0,0.0,2011-06-28 21:50:29
+Case51,Amend Request for Quotation,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-06-28 22:14:34,101,0,0.07142857142857142,2011-06-28 21:52:43
+Case88,Amend Purchase Requisition,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-06-28 23:01:06,101,0,0.07142857142857142,2011-06-28 22:43:59
+Case61,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-28 23:23:48,101,0,0.0,2011-06-28 23:09:17
+Case20,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-28 23:24:18,101,0,0.3333333333333333,2011-06-28 23:11:26
+Case24,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-28 23:41:37,101,1,0.0,2011-06-28 23:32:04
+Case8,Confirm Purchase Order,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 2,2011-06-29 00:25:18,106,5,1.0,2011-06-28 14:02:35
+Case74,Analyze Purchase Requisition,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 3,2011-06-29 00:32:12,101,0,0.0,2011-06-29 00:24:49
+Case93,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-29 00:48:28,101,0,0.0,2011-06-29 00:43:19
+Case48,Create Quotation comparison Map,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 4,2011-06-29 00:49:43,101,0,0.3333333333333333,2011-06-29 00:35:49
+Case90,Amend Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 1,2011-06-29 00:50:39,101,0,0.07142857142857142,2011-06-29 00:30:21
+Case53,Analyze Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 4,2011-06-29 00:55:48,101,0,0.6666666666666666,2011-06-29 00:43:12
+Case40,Choose best option,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 1,2011-06-29 01:15:04,105,0,0.0,2011-06-28 16:44:52
+Case46,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 01:31:57,101,0,0.3333333333333333,2011-06-29 01:18:56
+Case28,Create Purchase Order,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-29 01:59:30,101,0,0.3333333333333333,2011-06-29 01:45:00
+Case94,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-29 02:02:56,101,0,0.0,2011-06-29 01:57:46
+Case65,Analyze Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-29 02:03:21,101,0,0.6666666666666666,2011-06-29 01:50:19
+Case78,Analyze Purchase Requisition,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 3,2011-06-29 02:16:57,101,0,0.0,2011-06-29 02:09:06
+Case35,Create Quotation comparison Map,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 4,2011-06-29 02:25:05,101,0,0.3333333333333333,2011-06-29 02:10:11
+Case33,Analyze Quotation Comparison Map,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-06-29 02:32:29,101,0,0.0,2011-06-29 02:32:09
+Case78,Create Request for Quotation,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 3,2011-06-29 02:40:00,101,0,0.0,2011-06-29 02:20:38
+Case41,Send Request for Quotation to Supplier,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 4,2011-06-29 03:23:11,101,0,0.0,2011-06-29 00:10:05
+Case94,Create Request for Quotation,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 3,2011-06-29 03:34:11,101,0,0.0,2011-06-29 03:13:04
+Case95,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-29 04:34:14,101,0,0.0,2011-06-29 04:28:57
+Case32,Send Request for Quotation to Supplier,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 4,2011-06-29 05:32:57,101,1,0.3333333333333333,2011-06-29 02:51:22
+Case74,Amend Purchase Requisition,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-06-29 05:55:42,101,0,0.07142857142857142,2011-06-29 05:37:52
+Case96,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-29 06:45:53,101,0,0.0,2011-06-29 06:40:35
+Case1,Confirm Purchase Order,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 2,2011-06-29 07:09:18,102,2,0.4,2011-06-28 04:59:45
+Case48,Analyze Quotation Comparison Map,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-29 07:34:38,101,0,0.07142857142857142,2011-06-29 07:34:38
+Case97,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-29 08:16:35,101,0,0.0,2011-06-29 08:11:23
+Case24,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 08:34:59,101,0,0.0,2011-06-29 08:19:45
+Case35,Analyze Quotation Comparison Map,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-29 09:11:26,101,0,0.14285714285714285,2011-06-29 09:11:26
+Case9,Confirm Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 2,2011-06-29 09:18:54,101,2,0.4,2011-06-29 01:02:57
+Case26,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 09:22:46,101,1,0.0,2011-06-29 09:13:01
+Case97,Create Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 3,2011-06-29 09:50:50,101,0,0.0,2011-06-29 09:29:39
+Case52,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 10:00:53,101,0,0.0,2011-06-29 09:48:33
+Case10,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 10:09:20,101,0,0.3333333333333333,2011-06-29 09:53:52
+Case33,Choose best option,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-29 11:14:37,101,0,0.0,2011-06-29 02:46:02
+Case69,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 11:24:45,101,0,0.0,2011-06-29 11:10:25
+Case52,Amend Request for Quotation,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-06-29 12:24:47,100,0,0.14285714285714285,2011-06-29 12:06:55
+Case62,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-29 15:34:01,100,0,0.3333333333333333,2011-06-29 15:21:54
+Case56,Send Request for Quotation to Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-29 15:51:23,100,0,0.0,2011-06-29 14:11:59
+Case48,Choose best option,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-29 16:12:46,101,1,0.07142857142857142,2011-06-29 07:49:18
+Case32,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-29 16:22:48,100,0,0.0,2011-06-29 16:07:11
+Case62,Amend Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-29 16:25:11,100,0,0.14285714285714285,2011-06-29 16:05:45
+Case68,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-29 16:36:18,100,0,0.0,2011-06-29 16:22:51
+Case10,Analyze Quotation Comparison Map,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-29 16:55:32,100,0,0.07142857142857142,2011-06-29 16:53:01
+Case72,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 17:22:30,100,0,0.3333333333333333,2011-06-29 17:09:37
+Case26,Create Purchase Order,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-29 17:58:40,99,0,0.3333333333333333,2011-06-29 17:43:07
+Case74,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-29 17:58:47,99,0,0.0,2011-06-29 17:49:50
+Case73,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-29 18:20:53,99,0,0.3333333333333333,2011-06-29 18:07:18
+Case35,Choose best option,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-29 18:26:40,101,2,0.14285714285714285,2011-06-29 10:12:10
+Case56,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-29 18:58:25,98,0,0.3333333333333333,2011-06-29 18:44:07
+Case41,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 19:40:53,98,0,0.3333333333333333,2011-06-29 19:26:18
+Case50,Send Request for Quotation to Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 19:53:28,100,0,0.0,2011-06-29 16:46:12
+Case85,Analyze Purchase Requisition,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 3,2011-06-29 20:09:04,98,0,0.0,2011-06-29 20:00:11
+Case40,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-29 20:11:38,98,1,0.3333333333333333,2011-06-29 20:01:55
+Case19,Confirm Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 2,2011-06-29 20:44:30,101,3,0.6,2011-06-29 03:21:18
+Case60,Send Request for Quotation to Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-29 20:50:26,98,1,0.3333333333333333,2011-06-29 19:44:52
+Case93,Amend Purchase Requisition,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 1,2011-06-29 21:30:13,98,0,0.07142857142857142,2011-06-29 21:10:32
+Case12,Confirm Purchase Order,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-06-29 21:32:26,101,3,0.6,2011-06-28 19:34:09
+Case61,Send Request for Quotation to Supplier,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 4,2011-06-29 22:33:42,98,0,0.0,2011-06-29 20:50:59
+Case88,Analyze Purchase Requisition,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 3,2011-06-29 22:55:15,98,0,0.0,2011-06-29 22:46:21
+Case74,Amend Purchase Requisition,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-06-29 23:05:42,98,0,0.07142857142857142,2011-06-29 22:48:43
+Case32,Analyze Quotation Comparison Map,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-29 23:10:26,98,0,0.07142857142857142,2011-06-29 23:08:38
+Case95,Amend Purchase Requisition,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-29 23:28:53,98,0,0.14285714285714285,2011-06-29 23:09:45
+Case50,Create Quotation comparison Map,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 4,2011-06-29 23:41:34,98,0,0.3333333333333333,2011-06-29 23:26:40
+Case46,Send Request for Quotation to Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 23:49:57,98,1,0.3333333333333333,2011-06-29 21:03:13
+Case76,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-29 23:59:19,98,0,0.6666666666666666,2011-06-29 23:48:03
+Case85,Amend Purchase Requisition,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-06-30 00:44:20,98,0,0.14285714285714285,2011-06-30 00:25:52
+Case44,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-30 01:06:14,98,0,0.3333333333333333,2011-06-30 00:51:38
+Case56,Analyze Quotation Comparison Map,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-06-30 01:29:43,97,0,0.14285714285714285,2011-06-30 01:29:36
+Case60,Create Quotation comparison Map,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 4,2011-06-30 01:35:57,97,0,0.3333333333333333,2011-06-30 01:18:17
+Case96,Amend Purchase Requisition,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-30 01:55:45,97,0,0.14285714285714285,2011-06-30 01:35:21
+Case17,Confirm Purchase Order,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 2,2011-06-30 02:02:27,100,3,0.6,2011-06-29 11:25:05
+Case77,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-30 02:06:02,97,0,0.3333333333333333,2011-06-30 01:53:13
+Case10,Choose best option,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-30 02:13:28,99,1,0.07142857142857142,2011-06-29 18:00:47
+Case61,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-30 02:18:40,97,0,0.6666666666666666,2011-06-30 02:03:53
+Case33,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-30 02:18:58,97,1,0.6666666666666666,2011-06-30 02:09:14
+Case41,Analyze Quotation Comparison Map,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-06-30 02:21:21,97,0,0.14285714285714285,2011-06-30 02:21:04
+Case20,Confirm Purchase Order,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 2,2011-06-30 02:59:54,100,4,0.8,2011-06-29 13:28:56
+Case53,Send Request for Quotation to Supplier,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 4,2011-06-30 03:03:30,98,1,0.3333333333333333,2011-06-29 23:45:37
+Case88,Amend Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-06-30 03:08:42,97,0,0.14285714285714285,2011-06-30 02:50:31
+Case31,Analyze Request for Quotation,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 4,2011-06-30 03:26:18,97,0,0.0,2011-06-30 03:12:31
+Case31,Amend Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-30 04:05:53,97,0,0.21428571428571427,2011-06-30 03:47:51
+Case46,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-30 04:09:13,97,0,0.0,2011-06-30 03:53:52
+Case67,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-30 04:33:32,97,0,0.0,2011-06-30 04:20:26
+Case14,Confirm Purchase Order,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-06-30 04:51:53,101,4,0.8,2011-06-29 03:50:46
+Case78,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-30 06:00:46,96,0,0.3333333333333333,2011-06-30 05:48:01
+Case50,Analyze Quotation Comparison Map,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-06-30 06:18:01,95,0,0.21428571428571427,2011-06-30 06:18:01
+Case53,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-30 06:52:18,95,0,0.3333333333333333,2011-06-30 06:37:12
+Case70,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-30 07:42:01,95,0,0.3333333333333333,2011-06-30 07:29:33
+Case65,Send Request for Quotation to Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-30 07:42:54,96,0,0.0,2011-06-30 05:10:35
+Case32,Choose best option,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-30 07:52:59,98,1,0.07142857142857142,2011-06-29 23:37:24
+Case60,Analyze Quotation Comparison Map,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-06-30 08:22:11,95,0,0.2857142857142857,2011-06-30 08:22:06
+Case70,Amend Request for Quotation,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-06-30 08:40:47,95,0,0.21428571428571427,2011-06-30 08:20:31
+Case61,Analyze Quotation Comparison Map,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-30 09:04:16,95,0,0.21428571428571427,2011-06-30 09:04:16
+Case82,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-30 09:21:36,95,0,0.0,2011-06-30 09:08:15
+Case28,Confirm Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 2,2011-06-30 09:24:20,98,4,0.8,2011-06-29 22:23:28
+Case56,Choose best option,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-06-30 10:00:34,97,2,0.14285714285714285,2011-06-30 01:58:03
+Case82,Amend Request for Quotation,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-30 10:15:35,95,0,0.2857142857142857,2011-06-30 09:57:41
+Case46,Analyze Quotation Comparison Map,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-06-30 11:10:03,95,0,0.2857142857142857,2011-06-30 11:10:03
+Case41,Choose best option,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-06-30 11:26:50,97,2,0.14285714285714285,2011-06-30 03:15:36
+Case40,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-30 11:38:17,95,0,0.0,2011-06-30 11:23:47
+Case74,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-06-30 12:18:40,95,0,0.0,2011-06-30 12:07:18
+Case79,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-30 13:02:22,95,0,0.0,2011-06-30 12:49:14
+Case79,Amend Request for Quotation,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-06-30 13:46:37,95,0,0.2857142857142857,2011-06-30 13:25:48
+Case53,Analyze Quotation Comparison Map,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-30 13:54:42,95,0,0.2857142857142857,2011-06-30 13:54:42
+Case50,Choose best option,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-30 14:16:17,95,3,0.21428571428571427,2011-06-30 06:37:10
+Case85,Analyze Purchase Requisition,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 3,2011-06-30 14:52:11,95,0,0.0,2011-06-30 14:41:59
+Case2,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-06-30 15:00:04,95,3,0.4,2011-06-30 14:59:15
+Case3,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-06-30 15:35:25,95,3,0.4,2011-06-30 15:34:51
+Case55,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-06-30 16:32:54,95,0,0.3333333333333333,2011-06-30 16:18:22
+Case88,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-06-30 16:59:35,95,0,0.0,2011-06-30 16:49:21
+Case61,Choose best option,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 1,2011-06-30 17:01:23,95,3,0.21428571428571427,2011-06-30 09:27:33
+Case65,Create Quotation comparison Map,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-30 17:31:38,94,0,0.3333333333333333,2011-06-30 17:17:02
+Case87,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-30 17:32:39,94,0,0.6666666666666666,2011-06-30 17:20:22
+Case74,Amend Purchase Requisition,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-06-30 17:34:50,94,0,0.21428571428571427,2011-06-30 17:19:27
+Case60,Choose best option,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-06-30 17:35:55,95,3,0.2857142857142857,2011-06-30 10:03:08
+Case68,Send Request for Quotation to Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-06-30 17:44:28,95,0,0.0,2011-06-30 14:50:36
+Case33,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-30 18:32:15,94,0,0.0,2011-06-30 18:17:19
+Case4,Deliver Goods Services,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-06-30 19:02:06,94,3,0.4,2011-06-30 19:01:13
+Case46,Choose best option,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 1,2011-06-30 19:27:09,95,3,0.21428571428571427,2011-06-30 11:46:41
+Case24,Confirm Purchase Order,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-06-30 19:30:19,98,4,0.8,2011-06-29 21:19:19
+Case35,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-30 19:50:48,94,1,0.0,2011-06-30 19:41:03
+Case84,Analyze Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-06-30 20:01:48,94,0,0.3333333333333333,2011-06-30 19:49:17
+Case90,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-30 20:04:56,94,0,0.0,2011-06-30 19:54:35
+Case32,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-30 20:15:03,94,1,0.0,2011-06-30 20:05:26
+Case48,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-06-30 20:23:45,94,2,0.3333333333333333,2011-06-30 20:14:01
+Case90,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-06-30 20:48:14,94,0,0.0,2011-06-30 20:27:22
+Case85,Amend Purchase Requisition,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-06-30 21:08:12,94,0,0.07142857142857142,2011-06-30 20:51:27
+Case2,Release Purchase Order,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-06-30 22:27:22,94,0,0.07142857142857142,2011-06-30 22:26:53
+Case3,Release Purchase Order,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-06-30 23:00:47,94,0,0.07142857142857142,2011-06-30 23:00:05
+Case53,Choose best option,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-06-30 23:33:54,95,3,0.21428571428571427,2011-06-30 15:38:00
+Case11,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-06-30 23:38:08,94,3,0.2,2011-06-30 23:37:24
+Case8,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-06-30 23:41:23,94,3,0.2,2011-06-30 23:40:22
+Case51,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-01 00:02:06,94,0,0.3333333333333333,2011-06-30 23:48:35
+Case65,Analyze Quotation Comparison Map,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-07-01 00:35:33,94,0,0.0,2011-07-01 00:35:33
+Case76,Send Request for Quotation to Supplier,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 4,2011-07-01 01:38:34,94,0,0.0,2011-06-30 23:33:28
+Case68,Create Quotation comparison Map,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 02:04:34,94,0,0.3333333333333333,2011-07-01 01:49:08
+Case4,Release Purchase Order,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-07-01 02:26:56,94,0,0.07142857142857142,2011-07-01 02:26:38
+Case77,Send Request for Quotation to Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-01 02:37:39,94,1,0.3333333333333333,2011-07-01 00:38:50
+Case41,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-01 02:43:38,94,1,0.3333333333333333,2011-07-01 02:33:37
+Case62,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 03:17:19,94,0,0.0,2011-07-01 03:03:17
+Case50,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 03:53:02,93,1,0.0,2011-07-01 03:42:49
+Case9,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-01 04:49:12,93,3,0.4,2011-07-01 04:48:35
+Case10,Settle Conditions With Supplier,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 4,2011-07-01 04:50:54,93,1,0.0,2011-07-01 04:41:26
+Case26,Confirm Purchase Order,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-01 05:25:15,96,3,0.6,2011-06-30 04:46:10
+Case1,Deliver Goods Services,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-01 05:40:45,93,3,0.2,2011-07-01 05:40:24
+Case89,Analyze Request for Quotation,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 4,2011-07-01 05:51:21,93,0,0.0,2011-07-01 05:38:18
+Case89,Amend Request for Quotation,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-07-01 06:38:42,93,0,0.07142857142857142,2011-07-01 06:17:52
+Case11,Release Purchase Order,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-07-01 07:02:29,93,0,0.07142857142857142,2011-07-01 07:02:13
+Case8,Release Purchase Order,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-07-01 07:04:37,93,0,0.07142857142857142,2011-07-01 07:04:29
+Case46,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-01 07:31:36,93,1,0.0,2011-07-01 07:21:52
+Case32,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 08:02:52,93,0,0.0,2011-07-01 07:46:56
+Case52,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 08:14:02,93,0,0.3333333333333333,2011-07-01 08:00:07
+Case68,Analyze Quotation Comparison Map,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-07-01 09:08:45,93,0,0.07142857142857142,2011-07-01 09:08:45
+Case77,Create Quotation comparison Map,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 4,2011-07-01 09:08:56,93,0,0.0,2011-07-01 08:53:05
+Case3,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-01 09:24:46,93,0,0.0,2011-07-01 09:24:42
+Case76,Create Quotation comparison Map,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 4,2011-07-01 09:35:33,93,0,0.0,2011-07-01 09:20:17
+Case65,Choose best option,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 1,2011-07-01 09:39:45,94,0,0.0,2011-07-01 01:12:16
+Case12,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-01 10:07:37,93,3,0.4,2011-07-01 10:07:05
+Case2,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-01 10:09:22,93,0,0.0,2011-07-01 10:09:19
+Case19,Deliver Goods Services,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-07-01 10:16:01,93,3,0.4,2011-07-01 10:15:24
+Case56,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-01 10:29:25,93,1,0.0,2011-07-01 10:19:33
+Case74,Analyze Purchase Requisition,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 3,2011-07-01 11:22:48,93,0,0.0,2011-07-01 11:10:30
+Case41,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-01 11:56:05,93,0,0.3333333333333333,2011-07-01 11:40:17
+Case35,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-01 12:03:29,93,1,0.6666666666666666,2011-07-01 11:49:44
+Case9,Release Purchase Order,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-07-01 12:15:07,93,0,0.07142857142857142,2011-07-01 12:14:41
+Case91,Analyze Request for Quotation,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 4,2011-07-01 12:23:37,93,0,0.3333333333333333,2011-07-01 12:09:57
+Case61,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 12:33:22,93,1,0.3333333333333333,2011-07-01 12:23:37
+Case14,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-01 12:39:25,93,3,0.4,2011-07-01 12:38:55
+Case48,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-01 12:46:24,93,0,0.6666666666666666,2011-07-01 12:30:11
+Case31,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-01 12:55:20,93,0,0.6666666666666666,2011-07-01 12:42:03
+Case4,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-01 12:55:34,92,0,0.0,2011-07-01 12:55:22
+Case1,Release Purchase Order,res_b509ef2d-63a3-446c-bd3b-fb82550016d0,Role 1,2011-07-01 13:06:16,92,0,0.07142857142857142,2011-07-01 13:05:25
+Case79,Analyze Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 4,2011-07-01 13:36:37,92,0,0.3333333333333333,2011-07-01 13:21:48
+Case85,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-07-01 13:37:23,92,0,0.0,2011-07-01 13:24:38
+Case40,Confirm Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 2,2011-07-01 13:54:01,93,1,0.2,2011-07-01 09:18:28
+Case92,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-01 13:54:35,92,0,0.3333333333333333,2011-07-01 13:40:54
+Case55,Send Request for Quotation to Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-01 14:02:52,93,0,0.0,2011-07-01 11:10:54
+Case70,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 14:53:57,91,0,0.0,2011-07-01 14:38:29
+Case77,Analyze Quotation Comparison Map,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-07-01 16:09:33,91,0,0.07142857142857142,2011-07-01 16:09:25
+Case76,Analyze Quotation Comparison Map,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-07-01 16:39:44,91,0,0.07142857142857142,2011-07-01 16:39:43
+Case3,Release Purchase Order,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-07-01 16:50:15,91,0,0.14285714285714285,2011-07-01 16:47:20
+Case96,Analyze Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 3,2011-07-01 16:50:22,91,0,0.0,2011-07-01 16:40:44
+Case74,Amend Purchase Requisition,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-07-01 17:08:05,91,0,0.14285714285714285,2011-07-01 16:52:47
+Case50,Create Purchase Order,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 4,2011-07-01 17:14:54,91,0,0.3333333333333333,2011-07-01 16:58:05
+Case85,Amend Purchase Requisition,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-07-01 17:32:38,91,0,0.21428571428571427,2011-07-01 17:15:52
+Case87,Send Request for Quotation to Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-01 17:33:40,91,0,0.0,2011-07-01 15:41:52
+Case12,Release Purchase Order,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-07-01 17:36:05,91,0,0.21428571428571427,2011-07-01 17:35:28
+Case53,Settle Conditions With Supplier,res_56ca3409-8479-4f16-b2af-387707523792,Role 4,2011-07-01 17:40:00,91,1,0.3333333333333333,2011-07-01 17:30:02
+Case19,Release Purchase Order,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-07-01 17:42:23,91,0,0.21428571428571427,2011-07-01 17:41:48
+Case4,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-01 18:09:59,91,0,0.0,2011-07-01 18:06:52
+Case68,Choose best option,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 1,2011-07-01 18:14:06,93,0,0.0,2011-07-01 09:48:23
+Case11,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-01 18:19:37,91,0,0.0,2011-07-01 18:19:13
+Case46,Create Purchase Order,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 4,2011-07-01 18:24:20,91,0,0.3333333333333333,2011-07-01 18:06:38
+Case60,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 19:50:05,91,1,0.6666666666666666,2011-07-01 19:40:14
+Case20,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-01 19:53:42,91,3,0.4,2011-07-01 19:52:58
+Case8,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 19:55:50,91,0,0.6666666666666666,2011-07-01 19:55:50
+Case14,Release Purchase Order,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-07-01 20:10:40,91,0,0.14285714285714285,2011-07-01 20:09:43
+Case17,Deliver Goods Services,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-07-01 20:54:04,91,3,0.4,2011-07-01 20:53:15
+Case51,Send Request for Quotation to Supplier,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 4,2011-07-01 20:56:15,91,0,0.0,2011-07-01 17:43:04
+Case84,Send Request for Quotation to Supplier,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 4,2011-07-01 21:06:39,91,1,0.3333333333333333,2011-07-01 19:14:10
+Case96,Amend Purchase Requisition,res_b509ef2d-63a3-446c-bd3b-fb82550016d0,Role 1,2011-07-01 21:29:56,91,0,0.14285714285714285,2011-07-01 21:11:19
+Case4,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-01 22:53:07,91,0,0.0,2011-07-01 22:52:38
+Case9,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-01 23:12:00,90,0,0.0,2011-07-01 23:11:43
+Case87,Create Quotation comparison Map,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 23:38:40,90,0,0.0,2011-07-01 23:23:01
+Case56,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 23:47:30,90,0,0.3333333333333333,2011-07-01 23:30:48
+Case98,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-01 23:49:31,90,0,0.6666666666666666,2011-07-01 23:36:21
+Case55,Create Quotation comparison Map,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 4,2011-07-02 00:25:43,90,0,0.0,2011-07-02 00:10:03
+Case93,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-07-02 00:25:52,90,0,0.0,2011-07-02 00:16:07
+Case28,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-02 00:34:13,90,3,0.6,2011-07-02 00:33:29
+Case98,Amend Request for Quotation,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 1,2011-07-02 00:37:03,90,0,0.14285714285714285,2011-07-02 00:15:50
+Case65,Settle Conditions With Supplier,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 4,2011-07-02 00:38:04,90,1,0.0,2011-07-02 00:28:14
+Case77,Choose best option,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 1,2011-07-02 01:04:21,91,1,0.07142857142857142,2011-07-01 16:42:10
+Case76,Choose best option,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 1,2011-07-02 01:20:17,91,2,0.21428571428571427,2011-07-01 17:05:29
+Case10,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-02 01:23:40,90,0,0.0,2011-07-02 01:07:54
+Case61,Create Purchase Order,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 4,2011-07-02 01:47:48,90,0,0.0,2011-07-02 01:35:04
+Case95,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-07-02 01:52:05,90,0,0.0,2011-07-02 01:42:10
+Case1,Approve Purchase Order for payment,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-02 02:38:43,90,0,0.0,2011-07-02 02:38:43
+Case20,Release Purchase Order,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-07-02 03:19:43,90,0,0.0,2011-07-02 03:19:23
+Case11,Authorize Supplier's Invoice payment,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 5,2011-07-02 03:36:35,90,0,0.0,2011-07-02 03:33:50
+Case84,Create Quotation comparison Map,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-02 04:02:22,90,0,0.3333333333333333,2011-07-02 03:46:59
+Case90,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-02 04:19:12,90,0,0.6666666666666666,2011-07-02 04:06:33
+Case17,Release Purchase Order,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-07-02 04:21:00,89,0,0.0,2011-07-02 04:20:35
+Case53,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-02 04:49:15,89,0,0.6666666666666666,2011-07-02 04:33:59
+Case52,Send Request for Quotation to Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-02 05:22:15,90,0,0.0,2011-07-02 02:46:47
+Case19,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-02 05:27:50,89,0,0.0,2011-07-02 05:27:33
+Case33,Confirm Purchase Order,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 2,2011-07-02 06:27:34,93,1,0.2,2011-07-01 04:27:21
+Case93,Amend Purchase Requisition,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-07-02 06:34:49,89,0,0.0,2011-07-02 06:17:08
+Case87,Analyze Quotation Comparison Map,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-07-02 06:40:46,89,0,0.0,2011-07-02 06:40:46
+Case70,Send Request for Quotation to Supplier,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 4,2011-07-02 06:45:11,90,1,0.6666666666666666,2011-07-02 03:50:34
+Case9,Release Purchase Order,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-07-02 06:55:09,89,0,0.07142857142857142,2011-07-02 06:52:29
+Case12,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-02 07:19:30,89,0,0.3333333333333333,2011-07-02 07:19:30
+Case55,Analyze Quotation Comparison Map,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-07-02 07:25:50,89,0,0.07142857142857142,2011-07-02 07:25:50
+Case2,Send Invoice,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-07-02 07:49:51,89,0,0.6,2011-07-02 07:47:29
+Case95,Amend Purchase Requisition,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 1,2011-07-02 07:56:30,89,0,0.07142857142857142,2011-07-02 07:39:14
+Case28,Release Purchase Order,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-07-02 07:57:04,89,0,0.07142857142857142,2011-07-02 07:56:54
+Case3,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-02 08:24:51,89,0,0.0,2011-07-02 08:24:51
+Case79,Send Request for Quotation to Supplier,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 4,2011-07-02 09:28:42,89,0,0.0,2011-07-02 07:06:15
+Case65,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-02 10:00:15,89,0,0.0,2011-07-02 09:44:00
+Case24,Deliver Goods Services,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-02 10:05:14,89,3,0.8,2011-07-02 10:04:30
+Case60,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-02 10:23:30,89,0,0.0,2011-07-02 10:08:34
+Case14,Approve Purchase Order for payment,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-02 10:31:22,89,0,0.3333333333333333,2011-07-02 10:31:22
+Case51,Create Quotation comparison Map,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 4,2011-07-02 10:39:10,89,0,0.3333333333333333,2011-07-02 10:23:17
+Case84,Analyze Quotation Comparison Map,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-07-02 10:59:08,89,0,0.14285714285714285,2011-07-02 10:59:08
+Case11,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-02 11:23:41,89,0,0.0,2011-07-02 11:23:30
+Case8,Send Invoice,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-02 12:25:39,88,0,1.0,2011-07-02 12:23:20
+Case19,Release Purchase Order,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-07-02 12:55:30,88,0,0.21428571428571427,2011-07-02 12:53:03
+Case68,Settle Conditions With Supplier,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 4,2011-07-02 12:57:07,88,1,0.0,2011-07-02 12:47:35
+Case82,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-02 13:50:46,88,0,0.0,2011-07-02 13:36:37
+Case77,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-02 13:51:05,88,1,0.3333333333333333,2011-07-02 13:41:24
+Case20,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-02 14:43:24,88,0,0.6666666666666666,2011-07-02 14:43:24
+Case94,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-02 14:51:54,88,0,0.3333333333333333,2011-07-02 14:37:47
+Case74,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-07-02 15:04:24,88,0,0.0,2011-07-02 14:52:56
+Case79,Create Quotation comparison Map,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 4,2011-07-02 15:05:07,88,0,0.6666666666666666,2011-07-02 14:47:58
+Case87,Choose best option,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 1,2011-07-02 15:18:17,89,0,0.0,2011-07-02 06:45:51
+Case74,Create Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 3,2011-07-02 15:43:34,88,0,0.0,2011-07-02 15:22:04
+Case70,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-02 15:47:36,88,0,0.3333333333333333,2011-07-02 15:31:05
+Case52,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-02 16:02:09,88,1,0.6666666666666666,2011-07-02 15:45:24
+Case17,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-02 16:05:23,88,0,0.3333333333333333,2011-07-02 16:05:23
+Case96,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-07-02 16:38:39,88,0,0.0,2011-07-02 16:28:06
+Case91,Send Request for Quotation to Supplier,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 4,2011-07-02 16:41:24,88,0,0.0,2011-07-02 14:20:28
+Case55,Choose best option,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 1,2011-07-02 16:50:51,89,1,0.07142857142857142,2011-07-02 08:29:22
+Case96,Create Request for Quotation,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-07-02 17:18:34,88,0,0.0,2011-07-02 16:53:13
+Case24,Release Purchase Order,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-07-02 17:31:16,88,0,0.07142857142857142,2011-07-02 17:30:57
+Case51,Analyze Quotation Comparison Map,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-07-02 17:43:54,88,0,0.07142857142857142,2011-07-02 17:43:54
+Case76,Settle Conditions With Supplier,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 4,2011-07-02 17:44:04,88,1,0.0,2011-07-02 17:34:21
+Case94,Amend Request for Quotation,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-07-02 18:09:08,88,0,0.07142857142857142,2011-07-02 17:48:11
+Case28,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-02 18:30:05,88,0,0.0,2011-07-02 18:29:37
+Case32,Confirm Purchase Order,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 2,2011-07-02 18:43:41,91,1,0.2,2011-07-01 16:41:11
+Case85,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-07-02 19:05:47,88,0,0.0,2011-07-02 18:53:41
+Case85,Create Request for Quotation,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 3,2011-07-02 19:45:48,88,0,0.0,2011-07-02 19:23:13
+Case3,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-02 19:48:52,88,0,0.0,2011-07-02 19:43:26
+Case1,Send Invoice,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-02 20:02:32,88,0,1.0,2011-07-02 19:59:50
+Case84,Choose best option,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 1,2011-07-02 20:16:50,88,2,0.14285714285714285,2011-07-02 11:56:40
+Case26,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-02 20:37:44,88,3,1.0,2011-07-02 20:37:07
+Case97,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-02 21:06:39,88,0,0.0,2011-07-02 20:52:23
+Case68,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-02 21:37:54,88,0,0.0,2011-07-02 21:20:26
+Case9,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-02 21:51:11,88,0,0.0,2011-07-02 21:51:11
+Case2,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-02 21:53:03,88,0,0.0,2011-07-02 21:52:55
+Case79,Analyze Quotation Comparison Map,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-07-02 22:00:40,88,0,0.07142857142857142,2011-07-02 21:59:53
+Case2,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-02 22:11:37,88,0,0.0,2011-07-02 22:07:03
+Case77,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-02 22:33:11,87,0,0.0,2011-07-02 22:15:36
+Case91,Create Quotation comparison Map,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-02 22:35:34,87,0,0.3333333333333333,2011-07-02 22:19:37
+Case70,Analyze Quotation Comparison Map,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-07-02 22:54:35,87,0,0.14285714285714285,2011-07-02 22:54:35
+Case52,Analyze Quotation Comparison Map,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-07-02 22:56:43,87,0,0.14285714285714285,2011-07-02 22:56:43
+Case3,Pay Invoice,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 5,2011-07-03 00:34:48,87,0,0.0,2011-07-03 00:32:18
+Case12,Send Invoice,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-03 00:35:49,87,0,1.0,2011-07-03 00:33:29
+Case28,Release Purchase Order,res_b509ef2d-63a3-446c-bd3b-fb82550016d0,Role 1,2011-07-03 01:51:18,86,0,0.2857142857142857,2011-07-03 01:49:28
+Case35,Confirm Purchase Order,res_b509ef2d-63a3-446c-bd3b-fb82550016d0,Role 2,2011-07-03 02:01:44,90,2,0.4,2011-07-02 00:01:55
+Case8,Release Supplier's Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-03 02:22:10,86,0,0.0,2011-07-03 02:22:10
+Case76,Create Purchase Order,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 4,2011-07-03 02:25:01,86,0,0.0,2011-07-03 02:07:39
+Case8,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-03 02:29:17,86,0,0.0,2011-07-03 02:26:09
+Case8,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-03 02:42:34,86,0,0.0,2011-07-03 02:40:22
+Case51,Choose best option,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 1,2011-07-03 03:00:34,88,1,0.07142857142857142,2011-07-02 18:34:17
+Case26,Release Purchase Order,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-07-03 04:05:55,85,0,0.21428571428571427,2011-07-03 04:05:27
+Case14,Send Invoice,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-03 04:15:49,85,0,1.0,2011-07-03 04:13:16
+Case93,Analyze Purchase Requisition,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 3,2011-07-03 04:21:18,85,0,0.0,2011-07-03 04:11:54
+Case24,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-03 04:26:20,85,0,0.0,2011-07-03 04:26:01
+Case91,Analyze Quotation Comparison Map,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-07-03 05:22:44,85,0,0.21428571428571427,2011-07-03 05:22:44
+Case41,Confirm Purchase Order,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 2,2011-07-03 05:35:22,90,3,0.6,2011-07-02 03:34:03
+Case95,Analyze Purchase Requisition,res_3449e2da-e183-4fe2-ad98-1acfb0530c45,Role 3,2011-07-03 05:52:33,85,0,0.0,2011-07-03 05:42:53
+Case40,Deliver Goods Services,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-07-03 06:23:01,85,3,1.0,2011-07-03 06:22:25
+Case79,Choose best option,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-07-03 07:05:16,87,1,0.07142857142857142,2011-07-02 22:39:15
+Case55,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-03 07:13:24,85,1,0.0,2011-07-03 07:03:45
+Case52,Choose best option,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-07-03 07:53:42,87,2,0.14285714285714285,2011-07-02 23:33:11
+Case70,Choose best option,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-07-03 07:56:21,87,3,0.21428571428571427,2011-07-02 23:51:42
+Case61,Confirm Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 2,2011-07-03 08:04:36,88,7,1.0,2011-07-02 17:25:13
+Case20,Send Invoice,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-03 08:59:16,85,0,1.0,2011-07-03 08:56:49
+Case19,Approve Purchase Order for payment,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-03 09:16:52,85,0,0.0,2011-07-03 09:16:52
+Case1,Release Supplier's Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-03 10:01:28,85,0,0.0,2011-07-03 10:01:12
+Case1,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-03 10:11:12,85,0,0.0,2011-07-03 10:08:11
+Case1,Authorize Supplier's Invoice payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 5,2011-07-03 10:25:19,85,0,0.0,2011-07-03 10:21:45
+Case46,Confirm Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 2,2011-07-03 10:31:51,89,3,0.6,2011-07-02 08:23:59
+Case87,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-03 10:32:05,85,1,0.3333333333333333,2011-07-03 10:22:33
+Case1,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-03 10:46:14,85,0,0.0,2011-07-03 10:39:58
+Case93,Amend Purchase Requisition,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-07-03 11:05:39,84,0,0.07142857142857142,2011-07-03 10:49:13
+Case24,Release Purchase Order,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-07-03 11:45:50,84,0,0.07142857142857142,2011-07-03 11:43:48
+Case82,Send Request for Quotation to Supplier,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 4,2011-07-03 11:47:24,85,0,0.0,2011-07-03 09:38:17
+Case17,Send Invoice,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-03 11:50:03,84,0,1.0,2011-07-03 11:47:39
+Case10,Confirm Purchase Order,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-03 12:41:25,89,4,0.8,2011-07-02 10:37:42
+Case95,Amend Purchase Requisition,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 1,2011-07-03 12:46:16,84,0,0.07142857142857142,2011-07-03 12:29:58
+Case55,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-03 13:10:05,84,0,0.0,2011-07-03 12:53:42
+Case50,Confirm Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 2,2011-07-03 13:31:21,88,5,1.0,2011-07-02 11:29:18
+Case40,Release Purchase Order,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-07-03 13:53:59,84,0,0.07142857142857142,2011-07-03 13:53:39
+Case91,Choose best option,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-07-03 14:09:40,85,3,0.21428571428571427,2011-07-03 06:16:30
+Case12,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-03 14:47:05,84,0,0.0,2011-07-03 14:46:54
+Case12,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-03 14:55:01,84,0,0.0,2011-07-03 14:51:24
+Case26,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-03 15:05:23,83,0,0.0,2011-07-03 15:05:19
+Case48,Confirm Purchase Order,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 2,2011-07-03 16:21:10,88,6,1.0,2011-07-02 14:39:41
+Case26,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-03 16:38:43,83,0,0.0,2011-07-03 16:36:02
+Case26,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-03 16:55:50,83,0,0.0,2011-07-03 16:55:18
+Case28,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-03 17:07:52,82,0,0.3333333333333333,2011-07-03 17:07:52
+Case33,Deliver Goods Services,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-07-03 17:11:24,82,3,1.0,2011-07-03 17:10:56
+Case82,Create Quotation comparison Map,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 4,2011-07-03 17:14:16,82,0,0.0,2011-07-03 16:56:39
+Case52,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-03 18:23:48,82,1,0.0,2011-07-03 18:14:14
+Case14,Release Supplier's Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-03 18:34:58,82,0,0.0,2011-07-03 18:34:41
+Case14,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-03 18:43:14,82,0,0.0,2011-07-03 18:39:35
+Case14,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-03 18:56:59,82,0,0.0,2011-07-03 18:55:48
+Case79,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-03 19:31:11,81,1,0.3333333333333333,2011-07-03 19:21:33
+Case84,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-03 19:50:46,81,1,0.3333333333333333,2011-07-03 19:41:06
+Case87,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-03 20:18:34,81,0,0.3333333333333333,2011-07-03 19:59:15
+Case56,Confirm Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 2,2011-07-03 20:39:48,85,7,1.0,2011-07-03 04:02:46
+Case9,Send Invoice,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-03 21:03:09,81,0,0.8,2011-07-03 20:59:33
+Case74,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-03 21:30:04,81,0,0.3333333333333333,2011-07-03 21:17:00
+Case97,Send Request for Quotation to Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-03 21:54:13,82,0,0.0,2011-07-03 18:44:22
+Case89,Analyze Request for Quotation,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 4,2011-07-03 23:07:11,81,0,0.0,2011-07-03 22:53:54
+Case53,Confirm Purchase Order,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-03 23:48:26,88,7,1.0,2011-07-02 21:49:06
+Case82,Analyze Quotation Comparison Map,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-07-04 00:12:51,81,0,0.0,2011-07-04 00:11:56
+Case33,Release Purchase Order,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-07-04 00:38:34,81,0,0.07142857142857142,2011-07-04 00:38:12
+Case24,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-04 01:08:00,81,0,0.0,2011-07-04 01:08:00
+Case40,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-04 01:19:42,81,0,0.0,2011-07-04 01:19:19
+Case17,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-04 01:52:41,81,0,0.0,2011-07-04 01:51:59
+Case17,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-04 02:01:45,81,0,0.0,2011-07-04 01:56:46
+Case52,Create Purchase Order,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 4,2011-07-04 02:07:02,81,0,0.0,2011-07-04 01:49:57
+Case51,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-04 02:26:33,80,1,0.0,2011-07-04 02:16:42
+Case79,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-04 02:46:34,80,0,0.0,2011-07-04 02:30:54
+Case20,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-04 02:48:38,80,0,0.0,2011-07-04 02:48:05
+Case20,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-04 02:56:57,80,0,0.0,2011-07-04 02:52:14
+Case70,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-04 03:26:57,79,1,0.0,2011-07-04 03:16:45
+Case84,Create Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-04 05:10:55,79,0,0.0,2011-07-04 04:54:34
+Case97,Create Quotation comparison Map,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-04 05:38:49,79,0,0.0,2011-07-04 05:23:19
+Case91,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-04 06:39:36,79,1,0.0,2011-07-04 06:29:22
+Case94,Analyze Request for Quotation,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-04 07:01:07,79,0,0.0,2011-07-04 06:46:38
+Case93,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-07-04 07:26:14,78,0,0.0,2011-07-04 07:14:01
+Case60,Confirm Purchase Order,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 2,2011-07-04 07:33:32,85,6,1.0,2011-07-03 09:37:04
+Case82,Choose best option,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 1,2011-07-04 08:40:46,81,0,0.0,2011-07-04 00:20:55
+Case51,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-04 08:43:13,78,0,0.0,2011-07-04 08:25:51
+Case95,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-07-04 08:57:59,78,0,0.0,2011-07-04 08:45:45
+Case95,Create Request for Quotation,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-07-04 09:38:47,78,0,0.0,2011-07-04 09:19:24
+Case85,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-04 09:59:55,78,0,0.0,2011-07-04 09:46:26
+Case9,Release Supplier's Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-04 10:10:19,78,0,0.0,2011-07-04 10:07:44
+Case9,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-04 10:30:42,78,0,0.0,2011-07-04 10:20:41
+Case70,Create Purchase Order,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 4,2011-07-04 10:35:26,78,0,0.0,2011-07-04 10:19:14
+Case19,Send Invoice,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-04 10:49:20,78,0,1.0,2011-07-04 10:46:15
+Case9,Pay Invoice,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 5,2011-07-04 10:51:47,78,0,0.0,2011-07-04 10:42:05
+Case33,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-04 11:08:30,77,0,0.0,2011-07-04 11:08:17
+Case35,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-04 11:09:35,77,3,1.0,2011-07-04 11:09:15
+Case33,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-04 11:38:54,77,0,0.0,2011-07-04 11:36:01
+Case33,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-04 11:51:02,77,0,0.0,2011-07-04 11:50:11
+Case32,Deliver Goods Services,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-04 12:09:24,76,3,1.0,2011-07-04 12:08:59
+Case97,Analyze Quotation Comparison Map,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-07-04 12:37:38,76,0,0.0,2011-07-04 12:37:38
+Case91,Create Purchase Order,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 4,2011-07-04 12:56:53,76,0,0.3333333333333333,2011-07-04 12:40:42
+Case74,Send Request for Quotation to Supplier,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 4,2011-07-04 12:58:55,77,0,0.0,2011-07-04 10:52:41
+Case65,Confirm Purchase Order,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 2,2011-07-04 13:07:00,84,6,1.0,2011-07-03 12:52:20
+Case93,Amend Purchase Requisition,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-07-04 13:24:43,76,0,0.07142857142857142,2011-07-04 13:06:52
+Case74,Create Quotation comparison Map,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-04 14:39:54,76,0,0.0,2011-07-04 14:24:10
+Case68,Confirm Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 2,2011-07-04 14:45:07,84,6,1.0,2011-07-03 12:31:51
+Case41,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-04 15:36:52,76,3,1.0,2011-07-04 15:36:26
+Case24,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-04 17:01:11,76,0,0.0,2011-07-04 16:56:47
+Case96,Analyze Request for Quotation,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 4,2011-07-04 17:01:20,76,0,0.0,2011-07-04 16:46:24
+Case96,Amend Request for Quotation,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 1,2011-07-04 17:44:58,76,0,0.07142857142857142,2011-07-04 17:25:02
+Case35,Release Purchase Order,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-07-04 18:35:22,76,0,0.07142857142857142,2011-07-04 18:34:49
+Case28,Send Invoice,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-04 19:10:57,76,0,1.0,2011-07-04 19:07:50
+Case40,Send Invoice,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-04 19:26:14,76,0,1.0,2011-07-04 19:23:51
+Case32,Release Purchase Order,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-07-04 19:44:57,76,0,0.07142857142857142,2011-07-04 19:44:33
+Case98,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-04 20:27:58,76,0,0.3333333333333333,2011-07-04 20:14:30
+Case89,Send Request for Quotation to Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-04 20:41:45,76,0,0.0,2011-07-04 18:52:14
+Case55,Confirm Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 2,2011-07-04 21:00:07,81,5,1.0,2011-07-03 23:00:14
+Case97,Choose best option,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 1,2011-07-04 21:04:57,76,0,0.0,2011-07-04 12:45:16
+Case24,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-04 21:45:37,76,0,0.0,2011-07-04 21:43:53
+Case74,Analyze Quotation Comparison Map,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-07-04 21:48:10,75,0,0.0,2011-07-04 21:48:10
+Case89,Create Quotation comparison Map,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 4,2011-07-04 22:04:41,75,0,0.0,2011-07-04 21:48:01
+Case82,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-04 22:58:25,75,1,0.3333333333333333,2011-07-04 22:48:37
+Case41,Release Purchase Order,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-07-04 23:09:40,75,0,0.07142857142857142,2011-07-04 23:09:25
+Case46,Deliver Goods Services,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-04 23:45:38,75,3,1.0,2011-07-04 23:45:23
+Case77,Confirm Purchase Order,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-04 23:54:10,81,4,0.8,2011-07-03 21:57:50
+Case19,Release Supplier's Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-05 00:01:37,75,0,0.0,2011-07-05 00:01:17
+Case19,Authorize Supplier's Invoice payment,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 5,2011-07-05 00:18:04,75,0,0.0,2011-07-05 00:12:16
+Case98,Amend Request for Quotation,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-07-05 00:30:43,75,0,0.07142857142857142,2011-07-05 00:13:10
+Case19,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-05 00:44:41,75,0,0.0,2011-07-05 00:36:47
+Case85,Send Request for Quotation to Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 4,2011-07-05 00:50:41,75,0,0.3333333333333333,2011-07-04 21:52:18
+Case76,Confirm Purchase Order,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 2,2011-07-05 01:17:43,81,6,1.0,2011-07-03 23:25:23
+Case48,Deliver Goods Services,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-07-05 01:50:57,74,3,1.0,2011-07-05 01:50:13
+Case61,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-05 03:09:00,74,3,1.0,2011-07-05 03:08:36
+Case82,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-05 04:14:21,74,0,0.0,2011-07-05 03:59:28
+Case35,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-05 04:59:23,74,0,0.0,2011-07-05 04:59:17
+Case89,Analyze Quotation Comparison Map,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-07-05 05:01:05,74,0,0.07142857142857142,2011-07-05 05:00:33
+Case50,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-05 05:20:50,74,3,1.0,2011-07-05 05:20:24
+Case35,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-05 05:32:12,74,0,0.0,2011-07-05 05:29:35
+Case35,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-05 05:39:21,74,0,0.0,2011-07-05 05:39:00
+Case74,Choose best option,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 1,2011-07-05 06:14:28,75,0,0.0,2011-07-04 21:54:03
+Case32,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-05 06:59:54,73,0,0.0,2011-07-05 06:59:54
+Case46,Release Purchase Order,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-07-05 07:19:57,73,0,0.07142857142857142,2011-07-05 07:19:39
+Case28,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-05 07:27:26,73,0,0.0,2011-07-05 07:26:46
+Case28,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-05 07:42:34,73,0,0.0,2011-07-05 07:37:01
+Case85,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-05 08:02:51,72,0,0.0,2011-07-05 07:47:53
+Case48,Release Purchase Order,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-07-05 09:10:44,72,0,0.07142857142857142,2011-07-05 09:10:44
+Case41,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-05 09:15:16,72,0,0.0,2011-07-05 09:15:02
+Case40,Release Supplier's Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-05 09:26:39,72,0,0.0,2011-07-05 09:25:52
+Case93,Analyze Purchase Requisition,res_c62962e6-1f96-46c0-8349-46777ec085a6,Role 3,2011-07-05 09:42:02,72,0,0.0,2011-07-05 09:31:16
+Case41,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-05 10:02:40,72,0,0.0,2011-07-05 10:00:15
+Case41,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-05 10:10:19,72,0,0.0,2011-07-05 10:10:09
+Case40,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-05 10:19:32,71,0,0.0,2011-07-05 10:16:10
+Case61,Release Purchase Order,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-07-05 10:37:14,71,0,0.07142857142857142,2011-07-05 10:37:14
+Case79,Confirm Purchase Order,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 2,2011-07-05 11:18:44,76,6,1.0,2011-07-04 11:53:53
+Case97,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-05 12:25:12,71,1,0.0,2011-07-05 12:15:34
+Case50,Release Purchase Order,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-07-05 12:45:45,71,0,0.07142857142857142,2011-07-05 12:45:45
+Case10,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-05 13:08:55,71,3,1.0,2011-07-05 13:08:11
+Case56,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-05 13:09:14,71,4,1.0,2011-07-05 13:08:41
+Case52,Confirm Purchase Order,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-05 13:23:55,77,5,1.0,2011-07-04 11:16:43
+Case89,Choose best option,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 1,2011-07-05 13:47:11,74,1,0.07142857142857142,2011-07-05 05:22:29
+Case74,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-05 14:22:53,71,1,0.0,2011-07-05 14:14:32
+Case93,Amend Purchase Requisition,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-07-05 14:38:46,71,0,0.0,2011-07-05 14:24:23
+Case85,Analyze Quotation Comparison Map,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-07-05 15:08:07,71,0,0.0,2011-07-05 15:08:05
+Case87,Confirm Purchase Order,res_b509ef2d-63a3-446c-bd3b-fb82550016d0,Role 2,2011-07-05 15:41:10,76,6,1.0,2011-07-04 13:37:32
+Case40,Release Purchase Order,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-07-05 16:30:37,71,0,0.07142857142857142,2011-07-05 16:26:59
+Case96,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-05 18:32:54,71,0,0.0,2011-07-05 18:19:10
+Case51,Confirm Purchase Order,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 2,2011-07-05 18:34:28,76,7,1.0,2011-07-04 19:46:17
+Case46,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-05 18:45:25,70,0,0.0,2011-07-05 18:45:25
+Case84,Confirm Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 2,2011-07-05 18:55:53,76,6,1.0,2011-07-04 17:36:18
+Case53,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-05 19:38:23,70,3,0.6,2011-07-05 19:38:06
+Case97,Create Purchase Order,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 4,2011-07-05 19:44:28,70,0,0.0,2011-07-05 19:30:23
+Case48,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-05 19:58:05,70,0,0.3333333333333333,2011-07-05 19:58:05
+Case95,Analyze Request for Quotation,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-05 20:03:41,70,0,0.0,2011-07-05 19:50:54
+Case56,Release Purchase Order,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-07-05 20:32:18,70,0,0.07142857142857142,2011-07-05 20:32:18
+Case10,Release Purchase Order,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-07-05 20:38:16,70,0,0.07142857142857142,2011-07-05 20:38:11
+Case61,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-05 21:15:50,70,0,0.0,2011-07-05 21:15:50
+Case70,Confirm Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 2,2011-07-05 22:15:44,76,7,1.0,2011-07-04 21:38:30
+Case32,Send Invoice,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-05 23:35:33,70,0,0.4,2011-07-05 23:32:48
+Case50,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-05 23:41:00,70,0,0.0,2011-07-05 23:41:00
+Case85,Choose best option,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 1,2011-07-06 00:02:32,71,0,0.0,2011-07-05 15:32:19
+Case91,Confirm Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 2,2011-07-06 00:39:41,71,4,0.8,2011-07-05 17:54:23
+Case74,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-06 00:53:30,70,0,0.0,2011-07-06 00:35:40
+Case40,Approve Purchase Order for payment,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-06 02:01:28,70,0,0.0,2011-07-06 01:56:41
+Case53,Release Purchase Order,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-07-06 03:05:49,70,0,0.0,2011-07-06 03:05:49
+Case68,Deliver Goods Services,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-07-06 05:06:11,70,3,0.2,2011-07-06 05:05:36
+Case95,Send Request for Quotation to Supplier,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 4,2011-07-06 05:13:26,70,0,0.0,2011-07-06 03:42:46
+Case50,Release Purchase Order,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-07-06 06:58:14,70,0,0.0,2011-07-06 06:56:44
+Case10,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-06 06:58:53,70,0,0.0,2011-07-06 06:58:53
+Case82,Confirm Purchase Order,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 2,2011-07-06 06:59:04,71,5,1.0,2011-07-05 13:10:17
+Case56,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-06 07:46:57,70,0,0.0,2011-07-06 07:46:57
+Case60,Deliver Goods Services,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-06 08:10:13,70,3,0.0,2011-07-06 08:09:43
+Case93,Analyze Purchase Requisition,res_34f6c41a-7bc5-43ff-88ed-4f092243e785,Role 3,2011-07-06 09:38:04,70,0,0.0,2011-07-06 09:29:25
+Case46,Send Invoice,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-07-06 10:22:53,69,0,0.0,2011-07-06 10:20:40
+Case65,Deliver Goods Services,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-06 10:29:38,69,3,0.0,2011-07-06 10:29:08
+Case77,Deliver Goods Services,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-06 11:36:10,69,3,0.0,2011-07-06 11:35:29
+Case89,Settle Conditions With Supplier,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 4,2011-07-06 11:43:32,69,1,0.0,2011-07-06 11:33:58
+Case48,Send Invoice,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-06 11:51:06,69,0,0.0,2011-07-06 11:49:11
+Case61,Send Invoice,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-07-06 12:08:55,69,0,0.2,2011-07-06 12:07:42
+Case53,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-06 12:36:07,69,0,0.0,2011-07-06 12:36:07
+Case68,Release Purchase Order,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-07-06 12:38:59,69,0,0.0,2011-07-06 12:38:53
+Case95,Create Quotation comparison Map,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-06 13:07:51,69,0,0.0,2011-07-06 12:53:16
+Case76,Deliver Goods Services,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-06 13:09:17,69,3,0.4,2011-07-06 13:09:01
+Case32,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-06 13:43:51,69,0,0.0,2011-07-06 13:43:45
+Case32,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-06 13:57:22,69,0,0.0,2011-07-06 13:53:40
+Case10,Release Purchase Order,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-07-06 14:13:29,68,0,0.0,2011-07-06 14:11:44
+Case40,Send Invoice,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-06 14:25:44,68,0,0.4,2011-07-06 14:16:25
+Case98,Analyze Request for Quotation,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-06 14:57:20,68,0,0.0,2011-07-06 14:43:47
+Case53,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-06 15:31:35,68,0,0.0,2011-07-06 15:30:03
+Case60,Release Purchase Order,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-07-06 15:41:47,68,0,0.0,2011-07-06 15:41:47
+Case53,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-06 16:04:41,68,0,0.0,2011-07-06 16:04:41
+Case40,Release Supplier's Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-06 16:18:25,67,0,0.0,2011-07-06 16:12:39
+Case40,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-06 16:37:45,67,0,0.0,2011-07-06 16:26:57
+Case40,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-06 17:10:15,67,0,0.0,2011-07-06 16:59:17
+Case65,Release Purchase Order,res_b509ef2d-63a3-446c-bd3b-fb82550016d0,Role 1,2011-07-06 18:03:34,66,0,0.0,2011-07-06 18:03:34
+Case77,Release Purchase Order,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-07-06 19:07:20,66,0,0.0,2011-07-06 19:07:09
+Case55,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-06 19:24:23,66,3,0.4,2011-07-06 19:23:29
+Case95,Analyze Quotation Comparison Map,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-07-06 20:01:23,66,0,0.0,2011-07-06 20:01:14
+Case50,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-06 20:26:59,66,0,0.0,2011-07-06 20:26:59
+Case76,Release Purchase Order,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-07-06 20:37:10,66,0,0.07142857142857142,2011-07-06 20:37:10
+Case85,Settle Conditions With Supplier,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-06 21:11:42,66,1,0.0,2011-07-06 21:02:28
+Case68,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-06 22:07:30,66,0,0.0,2011-07-06 22:07:12
+Case89,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-06 23:09:19,66,0,0.0,2011-07-06 22:52:31
+Case46,Release Supplier's Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-07 00:29:59,66,0,0.0,2011-07-07 00:29:59
+Case46,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 00:42:15,66,0,0.0,2011-07-07 00:38:34
+Case60,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 00:50:49,66,0,0.0,2011-07-07 00:50:38
+Case46,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-07 00:56:46,66,0,0.0,2011-07-07 00:54:04
+Case56,Send Invoice,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-07 01:11:16,65,0,0.4,2011-07-07 01:09:22
+Case10,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-07 01:26:06,65,0,0.0,2011-07-07 01:26:06
+Case48,Release Supplier's Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 02:10:01,65,0,0.0,2011-07-07 02:10:01
+Case48,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-07 02:26:29,65,0,0.0,2011-07-07 02:23:24
+Case61,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-07 02:37:59,65,0,0.0,2011-07-07 02:37:59
+Case48,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-07 02:41:01,65,0,0.0,2011-07-07 02:38:41
+Case61,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-07 02:52:28,65,0,0.0,2011-07-07 02:49:21
+Case55,Release Purchase Order,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-07-07 02:54:22,64,0,0.07142857142857142,2011-07-07 02:54:21
+Case87,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-07 02:57:42,64,3,0.4,2011-07-07 02:56:47
+Case48,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 03:05:58,64,0,0.0,2011-07-07 03:00:12
+Case65,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-07 03:22:13,63,0,0.0,2011-07-07 03:21:41
+Case77,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-07 03:45:20,63,0,0.0,2011-07-07 03:44:55
+Case95,Choose best option,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 1,2011-07-07 04:50:38,66,0,0.0,2011-07-06 20:23:45
+Case68,Release Purchase Order,res_c32acb25-393c-4ce6-b0d1-77c4973890b9,Role 1,2011-07-07 05:26:20,63,0,0.0,2011-07-07 05:24:22
+Case60,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-07 05:44:57,63,0,0.0,2011-07-07 05:43:07
+Case79,Deliver Goods Services,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-07 06:04:25,63,3,0.4,2011-07-07 06:03:35
+Case76,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-07 09:14:21,63,0,0.0,2011-07-07 09:14:21
+Case60,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 09:44:22,63,0,0.0,2011-07-07 09:44:16
+Case87,Release Purchase Order,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-07-07 10:22:37,62,0,0.0,2011-07-07 10:22:24
+Case50,Authorize Supplier's Invoice payment,res_56ca3409-8479-4f16-b2af-387707523792,Role 5,2011-07-07 10:24:13,62,0,0.0,2011-07-07 10:20:31
+Case65,Release Purchase Order,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-07-07 10:45:16,62,0,0.0,2011-07-07 10:43:29
+Case77,Release Purchase Order,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-07-07 11:10:08,62,0,0.0,2011-07-07 11:07:59
+Case84,Deliver Goods Services,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-07 12:15:37,62,3,0.6,2011-07-07 12:14:47
+Case98,Send Request for Quotation to Supplier,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 4,2011-07-07 12:28:44,62,0,0.0,2011-07-07 10:03:57
+Case55,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-07 12:45:45,62,0,0.0,2011-07-07 12:45:45
+Case79,Release Purchase Order,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 1,2011-07-07 13:28:26,62,0,0.0,2011-07-07 13:28:26
+Case97,Confirm Purchase Order,res_e4359deb-e374-4b92-bc24-3c491481b992,Role 2,2011-07-07 14:18:07,69,0,0.0,2011-07-06 12:06:50
+Case50,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 14:30:05,62,0,0.0,2011-07-07 14:28:05
+Case74,Confirm Purchase Order,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 2,2011-07-07 14:41:54,69,1,0.2,2011-07-06 12:12:41
+Case85,Create Purchase Order,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-07 15:02:18,61,0,0.0,2011-07-07 14:43:34
+Case56,Release Supplier's Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 15:42:08,61,0,0.0,2011-07-07 15:42:08
+Case52,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-07 16:02:39,61,3,0.2,2011-07-07 16:02:03
+Case56,Settle Dispute With Supplier,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 5,2011-07-07 16:02:43,61,0,0.0,2011-07-07 15:59:56
+Case56,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 16:17:12,61,0,0.0,2011-07-07 16:13:37
+Case56,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 16:37:28,61,0,0.0,2011-07-07 16:32:02
+Case10,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 17:56:46,60,0,0.0,2011-07-07 17:52:32
+Case82,Deliver Goods Services,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-07 19:08:14,60,3,0.2,2011-07-07 19:07:12
+Case68,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-07 19:37:47,60,0,0.0,2011-07-07 19:37:47
+Case84,Release Purchase Order,res_b509ef2d-63a3-446c-bd3b-fb82550016d0,Role 1,2011-07-07 19:47:30,60,0,0.0,2011-07-07 19:47:28
+Case51,Deliver Goods Services,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-07 21:01:03,60,3,0.2,2011-07-07 21:00:05
+Case95,Settle Conditions With Supplier,res_14d163b0-1468-4004-ad8f-256dc3b97e67,Role 4,2011-07-07 21:12:58,60,1,0.0,2011-07-07 21:03:47
+Case87,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 21:28:14,60,0,0.0,2011-07-07 21:27:58
+Case70,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-07 21:45:22,60,3,0.2,2011-07-07 21:44:40
+Case10,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-07 21:52:39,60,0,0.0,2011-07-07 21:50:18
+Case52,Release Purchase Order,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-07-07 23:27:00,59,0,0.0,2011-07-07 23:26:51
+Case91,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-08 01:03:07,59,3,0.2,2011-07-08 01:02:21
+Case79,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-08 01:34:55,59,0,0.0,2011-07-08 01:34:55
+Case87,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-08 01:37:46,59,0,0.0,2011-07-08 01:34:57
+Case77,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-08 01:43:24,59,0,0.0,2011-07-08 01:43:24
+Case82,Release Purchase Order,res_32247bbc-e130-4987-b7d3-106e006be1bc,Role 1,2011-07-08 02:29:15,59,0,0.0,2011-07-08 02:29:07
+Case98,Create Quotation comparison Map,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-08 04:13:52,59,0,0.0,2011-07-08 03:58:48
+Case51,Release Purchase Order,res_5c4cabb7-c6c9-49e8-9455-7fdcdd692249,Role 1,2011-07-08 04:26:12,59,0,0.0,2011-07-08 04:26:12
+Case70,Release Purchase Order,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-07-08 05:07:49,59,0,0.0,2011-07-08 05:07:49
+Case87,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-08 05:10:05,59,0,0.0,2011-07-08 05:09:38
+Case65,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-08 05:54:07,58,0,0.0,2011-07-08 05:54:07
+Case84,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-08 06:05:04,58,0,0.0,2011-07-08 06:05:01
+Case76,Send Invoice,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-08 06:33:11,58,0,0.2,2011-07-08 06:31:18
+Case55,Send Invoice,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-08 06:33:48,58,1,0.4,2011-07-08 06:31:45
+Case77,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-08 07:37:40,58,0,0.0,2011-07-08 07:32:19
+Case84,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-08 07:52:20,58,0,0.0,2011-07-08 07:49:39
+Case77,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-08 08:21:45,58,0,0.0,2011-07-08 08:18:56
+Case84,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-08 08:24:29,57,0,0.0,2011-07-08 08:24:06
+Case91,Release Purchase Order,res_b509ef2d-63a3-446c-bd3b-fb82550016d0,Role 1,2011-07-08 08:25:49,56,0,0.0,2011-07-08 08:25:30
+Case95,Create Purchase Order,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-08 11:00:32,56,0,0.0,2011-07-08 10:42:04
+Case52,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-08 11:20:55,56,0,0.0,2011-07-08 11:20:55
+Case98,Analyze Quotation Comparison Map,res_834e69d0-0dc4-42a1-a1c4-6e698f30aba2,Role 1,2011-07-08 11:21:27,56,0,0.0,2011-07-08 11:21:13
+Case89,Confirm Purchase Order,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 2,2011-07-08 12:45:12,62,2,0.4,2011-07-07 10:31:36
+Case82,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-08 14:37:39,56,0,0.0,2011-07-08 14:37:21
+Case70,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-08 16:45:58,56,0,0.0,2011-07-08 16:45:58
+Case68,Send Invoice,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-08 17:27:10,56,0,0.2,2011-07-08 17:22:49
+Case51,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-08 18:43:27,56,0,0.0,2011-07-08 18:43:27
+Case82,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-08 18:51:52,56,0,0.0,2011-07-08 18:48:44
+Case91,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-08 19:31:09,56,0,0.0,2011-07-08 19:30:54
+Case98,Choose best option,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 1,2011-07-08 20:13:57,56,0,0.0,2011-07-08 11:50:43
+Case76,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-08 20:38:34,56,0,0.0,2011-07-08 20:38:34
+Case55,Release Supplier's Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-08 20:41:13,56,0,0.0,2011-07-08 20:41:13
+Case76,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-08 20:48:15,56,0,0.0,2011-07-08 20:43:34
+Case55,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-08 20:50:50,56,0,0.5,2011-07-08 20:46:51
+Case82,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-08 21:01:18,55,0,0.0,2011-07-08 21:00:51
+Case55,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-08 21:09:57,54,0,0.0,2011-07-08 21:06:29
+Case70,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-08 22:41:31,53,0,0.0,2011-07-08 22:38:37
+Case79,Send Invoice,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-08 23:56:52,53,0,0.2,2011-07-08 23:54:32
+Case91,Release Purchase Order,res_18457a52-a81f-4d37-b749-6415d938bf24,Role 1,2011-07-09 03:02:36,53,0,0.0,2011-07-09 02:59:51
+Case70,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-09 03:24:28,53,0,0.0,2011-07-09 03:24:23
+Case65,Send Invoice,res_31459b94-ca93-4e83-81f0-b5ae7646b163,Role 2,2011-07-09 04:45:45,52,0,0.2,2011-07-09 04:41:57
+Case68,Release Supplier's Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-09 05:33:23,52,0,0.0,2011-07-09 05:31:38
+Case68,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-09 05:49:23,52,0,0.0,2011-07-09 05:43:05
+Case74,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-09 07:35:33,52,3,0.4,2011-07-09 07:35:20
+Case52,Send Invoice,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-09 09:00:50,52,0,0.4,2011-07-09 08:58:52
+Case68,Release Purchase Order,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 1,2011-07-09 09:20:46,52,0,0.0,2011-07-09 09:15:51
+Case85,Confirm Purchase Order,res_706cd5ea-1f2f-4a29-97db-f6d8a7b4b67a,Role 2,2011-07-09 10:10:46,58,1,0.2,2011-07-08 07:42:32
+Case97,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-09 10:25:13,52,3,0.2,2011-07-09 10:25:00
+Case98,Settle Conditions With Supplier,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-09 11:32:52,52,1,0.0,2011-07-09 11:23:47
+Case79,Release Supplier's Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-09 14:07:01,52,0,0.0,2011-07-09 14:07:01
+Case79,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-09 14:16:45,52,0,0.0,2011-07-09 14:13:26
+Case79,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-09 14:41:21,52,0,0.0,2011-07-09 14:37:59
+Case74,Release Purchase Order,res_964342b8-54fb-48bf-b691-c4634ec456b0,Role 1,2011-07-09 15:02:04,52,0,0.0,2011-07-09 15:01:20
+Case79,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-09 15:10:57,52,0,0.0,2011-07-09 15:04:58
+Case65,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-09 15:53:37,51,0,0.0,2011-07-09 15:52:09
+Case65,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-09 16:11:40,51,0,0.0,2011-07-09 16:04:51
+Case91,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-09 17:07:38,50,0,0.0,2011-07-09 17:07:38
+Case97,Release Purchase Order,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-07-09 17:53:18,50,0,0.0,2011-07-09 17:52:31
+Case68,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-09 18:34:24,50,0,0.0,2011-07-09 18:24:45
+Case51,Send Invoice,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-09 19:31:35,50,0,0.2,2011-07-09 19:29:29
+Case89,Deliver Goods Services,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 2,2011-07-09 20:28:51,50,3,0.2,2011-07-09 20:28:20
+Case98,Create Purchase Order,res_f759fd36-828e-418a-a7e9-761438d8d247,Role 4,2011-07-09 20:43:49,50,0,0.0,2011-07-09 20:25:34
+Case52,Release Supplier's Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-09 22:59:57,50,0,0.0,2011-07-09 22:59:57
+Case52,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-09 23:13:24,50,0,0.0,2011-07-09 23:09:27
+Case68,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-09 23:30:06,50,0,0.0,2011-07-09 23:18:47
+Case52,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-09 23:35:43,50,0,0.0,2011-07-09 23:33:01
+Case68,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-10 01:06:48,49,0,0.0,2011-07-10 00:47:10
+Case74,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-10 02:07:48,48,0,0.0,2011-07-10 02:07:48
+Case89,Release Purchase Order,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-07-10 03:54:17,48,0,0.0,2011-07-10 03:53:43
+Case97,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-10 05:03:06,48,0,0.0,2011-07-10 05:03:06
+Case91,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-10 05:12:56,48,0,0.0,2011-07-10 05:08:48
+Case74,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-10 06:44:33,48,0,0.0,2011-07-10 06:41:23
+Case95,Confirm Purchase Order,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 2,2011-07-10 06:55:41,52,1,0.2,2011-07-09 04:54:48
+Case51,Release Supplier's Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-10 09:31:36,48,0,0.0,2011-07-10 09:31:36
+Case51,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-10 09:41:51,48,0,0.0,2011-07-10 09:38:35
+Case51,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-10 10:01:32,48,0,0.0,2011-07-10 09:59:01
+Case74,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-10 10:40:59,47,0,0.0,2011-07-10 10:40:27
+Case91,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-10 11:32:48,46,0,0.0,2011-07-10 11:29:18
+Case97,Release Purchase Order,res_f6c390fb-aa64-4137-8d34-73d5add978ba,Role 1,2011-07-10 12:41:25,45,0,0.0,2011-07-10 12:38:34
+Case89,Approve Purchase Order for payment,res_5c0ceffb-837f-4be8-8cfa-50bd1f71c6dc,Role 4,2011-07-10 14:55:56,45,0,0.0,2011-07-10 14:55:56
+Case97,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-11 01:05:36,45,0,0.0,2011-07-11 01:05:30
+Case85,Deliver Goods Services,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-11 04:52:09,45,3,0.2,2011-07-11 04:51:54
+Case89,Send Invoice,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-11 08:45:19,45,0,0.2,2011-07-11 08:42:34
+Case85,Release Purchase Order,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 1,2011-07-11 12:18:45,45,0,0.0,2011-07-11 12:18:16
+Case98,Confirm Purchase Order,res_9d210b30-dc5c-4fd2-9877-a00e484627f1,Role 2,2011-07-11 16:37:18,45,0,0.0,2011-07-10 13:50:34
+Case89,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-11 22:44:37,45,0,0.0,2011-07-11 22:44:02
+Case85,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-11 22:57:59,45,0,0.0,2011-07-11 22:57:26
+Case95,Deliver Goods Services,res_03ddc450-cb20-4d5f-9a45-8793036a8712,Role 2,2011-07-11 23:10:41,45,3,0.0,2011-07-11 23:10:11
+Case89,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-11 23:16:24,45,0,0.0,2011-07-11 23:11:39
+Case85,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-12 00:39:46,44,0,0.0,2011-07-12 00:36:33
+Case85,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-12 00:57:15,44,0,0.0,2011-07-12 00:56:43
+Case97,Send Invoice,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-12 02:02:24,43,0,0.0,2011-07-12 01:58:14
+Case95,Release Purchase Order,res_70201a2b-7e95-4254-aa09-f86dbe7449d8,Role 1,2011-07-12 06:36:00,43,0,0.0,2011-07-12 06:35:32
+Case97,Release Supplier's Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-12 15:51:51,43,0,0.0,2011-07-12 15:50:29
+Case97,Settle Dispute With Supplier,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-12 16:13:46,43,0,0.0,2011-07-12 16:04:40
+Case95,Approve Purchase Order for payment,res_8d82c5dd-ec91-4f49-b1ca-8772f037ceed,Role 4,2011-07-12 17:35:13,43,0,0.0,2011-07-12 17:35:13
+Case97,Release Purchase Order,res_56ca3409-8479-4f16-b2af-387707523792,Role 1,2011-07-12 21:46:47,43,0,0.0,2011-07-12 21:36:38
+Case97,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-13 10:51:41,43,0,0.0,2011-07-13 10:42:10
+Case95,Send Invoice,res_793ca5a4-b8c8-425f-b721-d05c023cd374,Role 2,2011-07-13 12:34:15,43,0,0.0,2011-07-13 12:31:33
+Case98,Deliver Goods Services,res_a277bf59-858c-44bc-a65c-803ac1400154,Role 2,2011-07-13 12:43:40,43,3,0.0,2011-07-13 12:43:05
+Case97,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-13 20:01:27,43,0,0.0,2011-07-13 19:51:40
+Case97,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-13 20:11:46,43,0,0.0,2011-07-13 20:01:28
+Case98,Release Purchase Order,res_bd7e6347-035b-4a54-8cdf-14c93663a3da,Role 1,2011-07-13 20:19:04,42,0,0.0,2011-07-13 20:18:25
+Case95,Authorize Supplier's Invoice payment,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-14 02:44:03,42,0,0.0,2011-07-14 02:43:46
+Case95,Pay Invoice,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-14 03:02:16,42,0,0.0,2011-07-14 02:57:49
+Case98,Settle Dispute With Supplier,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-14 06:57:36,41,0,0.0,2011-07-14 06:57:20
+Case98,Authorize Supplier's Invoice payment,res_7a27c062-bf4e-43aa-ae8f-b9c1a3ef776d,Role 5,2011-07-14 13:43:03,41,0,0.0,2011-07-14 13:39:45
+Case98,Pay Invoice,res_a7372b64-41d3-4ede-b4ed-91d02865f542,Role 5,2011-07-14 18:35:54,41,0,0.0,2011-07-14 18:35:03

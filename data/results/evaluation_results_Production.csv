@@ -1,0 +1,49 @@
+log_name,run_num,sim_file,metric,metric_name,sim_val
+Production,1,gen_Production_1.csv,aed,Absolute Event Distribution,417.300505050505
+Production,2,gen_Production_2.csv,aed,Absolute Event Distribution,506.25
+Production,3,gen_Production_3.csv,aed,Absolute Event Distribution,419.3838383838384
+Production,4,gen_Production_4.csv,aed,Absolute Event Distribution,451.3787878787879
+Production,5,gen_Production_5.csv,aed,Absolute Event Distribution,492.9318181818182
+Production,AVG,--- aed MEAN ---,aed,Absolute Event Distribution,457.4489898989899
+Production,1,gen_Production_1.csv,car,Case Arrival Rate,68.84444444444445
+Production,2,gen_Production_2.csv,car,Case Arrival Rate,68.84444444444445
+Production,3,gen_Production_3.csv,car,Case Arrival Rate,68.84444444444445
+Production,4,gen_Production_4.csv,car,Case Arrival Rate,68.84444444444445
+Production,5,gen_Production_5.csv,car,Case Arrival Rate,68.84444444444445
+Production,AVG,--- car MEAN ---,car,Case Arrival Rate,68.84444444444445
+Production,1,gen_Production_1.csv,ced,Circadian Event Distribution,2.638347763347763
+Production,2,gen_Production_2.csv,ced,Circadian Event Distribution,3.193542568542568
+Production,3,gen_Production_3.csv,ced,Circadian Event Distribution,2.946067821067821
+Production,4,gen_Production_4.csv,ced,Circadian Event Distribution,3.158369408369408
+Production,5,gen_Production_5.csv,ced,Circadian Event Distribution,3.551767676767677
+Production,AVG,--- ced MEAN ---,ced,Circadian Event Distribution,3.097619047619047
+Production,1,gen_Production_1.csv,cfld,Control-flow Log Distance (CFLD),0.6903290110626226
+Production,2,gen_Production_2.csv,cfld,Control-flow Log Distance (CFLD),0.6992971092445673
+Production,3,gen_Production_3.csv,cfld,Control-flow Log Distance (CFLD),0.7000529439658754
+Production,4,gen_Production_4.csv,cfld,Control-flow Log Distance (CFLD),0.6891853075150738
+Production,5,gen_Production_5.csv,cfld,Control-flow Log Distance (CFLD),0.7106362047048771
+Production,AVG,--- cfld MEAN ---,cfld,Control-flow Log Distance (CFLD),0.6979001152986033
+Production,1,gen_Production_1.csv,ctd,Cycle Time Distribution,36.8
+Production,2,gen_Production_2.csv,ctd,Cycle Time Distribution,37.77777777777776
+Production,3,gen_Production_3.csv,ctd,Cycle Time Distribution,31.15555555555556
+Production,4,gen_Production_4.csv,ctd,Cycle Time Distribution,30.3111111111111
+Production,5,gen_Production_5.csv,ctd,Cycle Time Distribution,33.37777777777775
+Production,AVG,--- ctd MEAN ---,ctd,Cycle Time Distribution,33.88444444444443
+Production,1,gen_Production_1.csv,ngd_2,2-Gram Distance,0.6548042704626335
+Production,2,gen_Production_2.csv,ngd_2,2-Gram Distance,0.6379163108454312
+Production,3,gen_Production_3.csv,ngd_2,2-Gram Distance,0.6590509666080844
+Production,4,gen_Production_4.csv,ngd_2,2-Gram Distance,0.6380628717077316
+Production,5,gen_Production_5.csv,ngd_2,2-Gram Distance,0.6518828451882845
+Production,AVG,--- ngd_2 MEAN ---,ngd_2,2-Gram Distance,0.6483434529624331
+Production,1,gen_Production_1.csv,ngd_3,3-Gram Distance,0.7759472817133443
+Production,2,gen_Production_2.csv,ngd_3,3-Gram Distance,0.7763679619349723
+Production,3,gen_Production_3.csv,ngd_3,3-Gram Distance,0.7817589576547231
+Production,4,gen_Production_4.csv,ngd_3,3-Gram Distance,0.7790055248618785
+Production,5,gen_Production_5.csv,ngd_3,3-Gram Distance,0.777431906614786
+Production,AVG,--- ngd_3 MEAN ---,ngd_3,3-Gram Distance,0.7781023265559408
+Production,1,gen_Production_1.csv,red,Relative Event Distribution,301.8295454545454
+Production,2,gen_Production_2.csv,red,Relative Event Distribution,345.1085858585859
+Production,3,gen_Production_3.csv,red,Relative Event Distribution,312.6666666666667
+Production,4,gen_Production_4.csv,red,Relative Event Distribution,349.4621212121212
+Production,5,gen_Production_5.csv,red,Relative Event Distribution,366.8888888888889
+Production,AVG,--- red MEAN ---,red,Relative Event Distribution,335.1911616161616

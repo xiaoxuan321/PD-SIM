@@ -1,0 +1,66 @@
+========================================================================
+FINAL ANSWER
+========================================================================
+Final answer              : NO_ON_SCANNED_GRID
+中文结论                  : NO：在当前扫描网格内，仅改变 noise_threshold 没有发现与目标 BPMN 精确一致的模型。
+
+Strict exact BPMN         : NO
+Strict exact thresholds   : None
+Exact control flow        : NO
+Control-flow thresholds   : None
+Best threshold            : 0.6
+Best approximate score    : 0.5990620490620491
+
+Best candidate differences:
+{
+  "missing_activities_in_candidate": [
+    "Change Version",
+    "Nitration Q.C.",
+    "Rework Milling",
+    "Round Q.C.",
+    "Stress Relief",
+    "Turn & Mill. & Screw Assem"
+  ],
+  "extra_activities_in_candidate": [
+    "Milling",
+    "SETUP Turning & Milling",
+    "Setup"
+  ],
+  "target_gateway_counts": {
+    "ExclusiveGateway": 35,
+    "ParallelGateway": 8
+  },
+  "candidate_gateway_counts": {
+    "ExclusiveGateway": 36,
+    "ParallelGateway": 6
+  },
+  "target_event_counts": {
+    "NormalStartEvent": 1,
+    "NormalEndEvent": 1
+  },
+  "candidate_event_counts": {
+    "StartEvent": 1,
+    "NormalEndEvent": 1
+  },
+  "target_control_nodes": 63,
+  "candidate_control_nodes": 59,
+  "target_sequence_flows": 101,
+  "candidate_sequence_flows": 0
+}
+
+Target alignment metrics:
+{
+  "fitness": 0.7730415782480842,
+  "precision": 0.4053540587219344,
+  "error": null
+}
+
+Best candidate alignment metrics:
+{
+  "fitness": 0.8925663288036282,
+  "precision": 0.5043083189722701,
+  "error": null
+}
+
+Important:
+NO_ON_SCANNED_GRID means no exact match was found on the tested threshold grid (step=0.001).

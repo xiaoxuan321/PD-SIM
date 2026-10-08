@@ -1,0 +1,49 @@
+log_name,run_num,sim_file,metric,metric_name,sim_val
+PurchasingExample,1,gen_PurchasingExample_1.csv,aed,Absolute Event Distribution,2017.621964097149
+PurchasingExample,2,gen_PurchasingExample_2.csv,aed,Absolute Event Distribution,1625.962513199578
+PurchasingExample,3,gen_PurchasingExample_3.csv,aed,Absolute Event Distribution,1646.645195353749
+PurchasingExample,4,gen_PurchasingExample_4.csv,aed,Absolute Event Distribution,1273.146779303062
+PurchasingExample,5,gen_PurchasingExample_5.csv,aed,Absolute Event Distribution,1562.047518479409
+PurchasingExample,AVG,--- aed MEAN ---,aed,Absolute Event Distribution,1625.084794086589
+PurchasingExample,1,gen_PurchasingExample_1.csv,car,Case Arrival Rate,589.234693877551
+PurchasingExample,2,gen_PurchasingExample_2.csv,car,Case Arrival Rate,589.234693877551
+PurchasingExample,3,gen_PurchasingExample_3.csv,car,Case Arrival Rate,589.234693877551
+PurchasingExample,4,gen_PurchasingExample_4.csv,car,Case Arrival Rate,589.234693877551
+PurchasingExample,5,gen_PurchasingExample_5.csv,car,Case Arrival Rate,589.234693877551
+PurchasingExample,AVG,--- car MEAN ---,car,Case Arrival Rate,589.234693877551
+PurchasingExample,1,gen_PurchasingExample_1.csv,ced,Circadian Event Distribution,1.579725448785639
+PurchasingExample,2,gen_PurchasingExample_2.csv,ced,Circadian Event Distribution,1.40239855181777
+PurchasingExample,3,gen_PurchasingExample_3.csv,ced,Circadian Event Distribution,1.075878714738271
+PurchasingExample,4,gen_PurchasingExample_4.csv,ced,Circadian Event Distribution,0.9886860763312717
+PurchasingExample,5,gen_PurchasingExample_5.csv,ced,Circadian Event Distribution,1.109971338060039
+PurchasingExample,AVG,--- ced MEAN ---,ced,Circadian Event Distribution,1.231332025946598
+PurchasingExample,1,gen_PurchasingExample_1.csv,cfld,Control-flow Log Distance (CFLD),0.3205479727559017
+PurchasingExample,2,gen_PurchasingExample_2.csv,cfld,Control-flow Log Distance (CFLD),0.2654290054558446
+PurchasingExample,3,gen_PurchasingExample_3.csv,cfld,Control-flow Log Distance (CFLD),0.2843448274903054
+PurchasingExample,4,gen_PurchasingExample_4.csv,cfld,Control-flow Log Distance (CFLD),0.2490906438698187
+PurchasingExample,5,gen_PurchasingExample_5.csv,cfld,Control-flow Log Distance (CFLD),0.2626961535424509
+PurchasingExample,AVG,--- cfld MEAN ---,cfld,Control-flow Log Distance (CFLD),0.2764217206228642
+PurchasingExample,1,gen_PurchasingExample_1.csv,ctd,Cycle Time Distribution,558.295918367347
+PurchasingExample,2,gen_PurchasingExample_2.csv,ctd,Cycle Time Distribution,542.3877551020408
+PurchasingExample,3,gen_PurchasingExample_3.csv,ctd,Cycle Time Distribution,549.3265306122449
+PurchasingExample,4,gen_PurchasingExample_4.csv,ctd,Cycle Time Distribution,559.030612244898
+PurchasingExample,5,gen_PurchasingExample_5.csv,ctd,Cycle Time Distribution,546.5204081632653
+PurchasingExample,AVG,--- ctd MEAN ---,ctd,Cycle Time Distribution,551.1122448979592
+PurchasingExample,1,gen_PurchasingExample_1.csv,ngd_2,2-Gram Distance,0.2306418219461698
+PurchasingExample,2,gen_PurchasingExample_2.csv,ngd_2,2-Gram Distance,0.1701570680628272
+PurchasingExample,3,gen_PurchasingExample_3.csv,ngd_2,2-Gram Distance,0.1925087108013937
+PurchasingExample,4,gen_PurchasingExample_4.csv,ngd_2,2-Gram Distance,0.1532110091743119
+PurchasingExample,5,gen_PurchasingExample_5.csv,ngd_2,2-Gram Distance,0.1814977973568282
+PurchasingExample,AVG,--- ngd_2 MEAN ---,ngd_2,2-Gram Distance,0.1856032814683062
+PurchasingExample,1,gen_PurchasingExample_1.csv,ngd_3,3-Gram Distance,0.253159708923784
+PurchasingExample,2,gen_PurchasingExample_2.csv,ngd_3,3-Gram Distance,0.1937299035369775
+PurchasingExample,3,gen_PurchasingExample_3.csv,ngd_3,3-Gram Distance,0.2126805778491172
+PurchasingExample,4,gen_PurchasingExample_4.csv,ngd_3,3-Gram Distance,0.1784511784511784
+PurchasingExample,5,gen_PurchasingExample_5.csv,ngd_3,3-Gram Distance,0.2019464720194647
+PurchasingExample,AVG,--- ngd_3 MEAN ---,ngd_3,3-Gram Distance,0.2079935681561043
+PurchasingExample,1,gen_PurchasingExample_1.csv,red,Relative Event Distribution,1587.15469904963
+PurchasingExample,2,gen_PurchasingExample_2.csv,red,Relative Event Distribution,1260.430834213305
+PurchasingExample,3,gen_PurchasingExample_3.csv,red,Relative Event Distribution,1275.592397043295
+PurchasingExample,4,gen_PurchasingExample_4.csv,red,Relative Event Distribution,965.7998944033791
+PurchasingExample,5,gen_PurchasingExample_5.csv,red,Relative Event Distribution,1202.122492080253
+PurchasingExample,AVG,--- red MEAN ---,red,Relative Event Distribution,1258.220063357973
